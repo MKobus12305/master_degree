@@ -1,0 +1,2352 @@
+2024-05-30 15:12:26,963| Thread-036 | INFO | THREAD START.
+2024-05-30 15:12:41,207| Thread-036 | INFO | Epoch 0/1999	 learning rate: 0.0001
+2024-05-30 15:12:41,207| Thread-036 | INFO | ----------
+2024-05-30 15:12:47,657| Thread-036 | INFO | train Loss: 0.0798
+2024-05-30 15:12:48,874| Thread-036 | INFO | valid Loss: 0.0477
+2024-05-30 15:12:48,875| Thread-036 | INFO | best valid loss!
+2024-05-30 15:12:49,015| Thread-036 | INFO | epoch time taken: 7.807797970948741
+2024-05-30 15:12:49,015| Thread-036 | INFO | 
+2024-05-30 15:12:49,015| Thread-036 | INFO | Epoch 1/1999	 learning rate: 0.0001
+2024-05-30 15:12:49,015| Thread-036 | INFO | ----------
+2024-05-30 15:12:54,642| Thread-036 | INFO | train Loss: 0.0290
+2024-05-30 15:12:55,615| Thread-036 | INFO | valid Loss: 0.0184
+2024-05-30 15:12:55,671| Thread-036 | INFO | best valid loss!
+2024-05-30 15:12:55,828| Thread-036 | INFO | epoch time taken: 6.813037189887837
+2024-05-30 15:12:55,829| Thread-036 | INFO | 
+2024-05-30 15:12:55,829| Thread-036 | INFO | Epoch 2/1999	 learning rate: 0.0001
+2024-05-30 15:12:55,829| Thread-036 | INFO | ----------
+2024-05-30 15:13:02,048| Thread-036 | INFO | train Loss: 0.0198
+2024-05-30 15:13:02,966| Thread-036 | INFO | valid Loss: 0.0111
+2024-05-30 15:13:02,968| Thread-036 | INFO | best valid loss!
+2024-05-30 15:13:03,141| Thread-036 | INFO | epoch time taken: 7.311993142822757
+2024-05-30 15:13:03,141| Thread-036 | INFO | 
+2024-05-30 15:13:03,142| Thread-036 | INFO | Epoch 3/1999	 learning rate: 0.0001
+2024-05-30 15:13:03,142| Thread-036 | INFO | ----------
+2024-05-30 15:13:08,692| Thread-036 | INFO | train Loss: 0.0162
+2024-05-30 15:13:09,813| Thread-036 | INFO | valid Loss: 0.0119
+2024-05-30 15:13:09,815| Thread-036 | INFO | epoch time taken: 6.673066570889205
+2024-05-30 15:13:09,815| Thread-036 | INFO | 
+2024-05-30 15:13:09,815| Thread-036 | INFO | Epoch 4/1999	 learning rate: 0.0001
+2024-05-30 15:13:09,815| Thread-036 | INFO | ----------
+2024-05-30 15:13:15,129| Thread-036 | INFO | train Loss: 0.0151
+2024-05-30 15:13:15,898| Thread-036 | INFO | valid Loss: 0.0106
+2024-05-30 15:13:15,901| Thread-036 | INFO | best valid loss!
+2024-05-30 15:13:16,048| Thread-036 | INFO | epoch time taken: 6.232994277961552
+2024-05-30 15:13:16,048| Thread-036 | INFO | 
+2024-05-30 15:13:16,049| Thread-036 | INFO | Epoch 5/1999	 learning rate: 0.0001
+2024-05-30 15:13:16,049| Thread-036 | INFO | ----------
+2024-05-30 15:13:20,163| Thread-036 | INFO | train Loss: 0.0136
+2024-05-30 15:13:21,008| Thread-036 | INFO | valid Loss: 0.0113
+2024-05-30 15:13:21,010| Thread-036 | INFO | epoch time taken: 4.961110949981958
+2024-05-30 15:13:21,010| Thread-036 | INFO | 
+2024-05-30 15:13:21,010| Thread-036 | INFO | Epoch 6/1999	 learning rate: 0.0001
+2024-05-30 15:13:21,010| Thread-036 | INFO | ----------
+2024-05-30 15:13:24,948| Thread-036 | INFO | train Loss: 0.0136
+2024-05-30 15:13:25,740| Thread-036 | INFO | valid Loss: 0.0135
+2024-05-30 15:13:25,742| Thread-036 | INFO | epoch time taken: 4.731879983097315
+2024-05-30 15:13:25,742| Thread-036 | INFO | 
+2024-05-30 15:13:25,742| Thread-036 | INFO | Epoch 7/1999	 learning rate: 0.0001
+2024-05-30 15:13:25,742| Thread-036 | INFO | ----------
+2024-05-30 15:13:29,681| Thread-036 | INFO | train Loss: 0.0129
+2024-05-30 15:13:30,515| Thread-036 | INFO | valid Loss: 0.0120
+2024-05-30 15:13:30,517| Thread-036 | INFO | epoch time taken: 4.774799797916785
+2024-05-30 15:13:30,517| Thread-036 | INFO | 
+2024-05-30 15:13:30,517| Thread-036 | INFO | Epoch 8/1999	 learning rate: 0.0001
+2024-05-30 15:13:30,517| Thread-036 | INFO | ----------
+2024-05-30 15:13:34,520| Thread-036 | INFO | train Loss: 0.0128
+2024-05-30 15:13:35,321| Thread-036 | INFO | valid Loss: 0.0111
+2024-05-30 15:13:35,323| Thread-036 | INFO | epoch time taken: 4.805914483033121
+2024-05-30 15:13:35,323| Thread-036 | INFO | 
+2024-05-30 15:13:35,323| Thread-036 | INFO | Epoch 9/1999	 learning rate: 0.0001
+2024-05-30 15:13:35,324| Thread-036 | INFO | ----------
+2024-05-30 15:13:39,309| Thread-036 | INFO | train Loss: 0.0120
+2024-05-30 15:13:40,023| Thread-036 | INFO | valid Loss: 0.0125
+2024-05-30 15:13:40,025| Thread-036 | INFO | epoch time taken: 4.701997483149171
+2024-05-30 15:13:40,026| Thread-036 | INFO | 
+2024-05-30 15:13:40,026| Thread-036 | INFO | Epoch 10/1999	 learning rate: 0.0001
+2024-05-30 15:13:40,026| Thread-036 | INFO | ----------
+2024-05-30 15:13:43,920| Thread-036 | INFO | train Loss: 0.0118
+2024-05-30 15:13:44,629| Thread-036 | INFO | valid Loss: 0.0095
+2024-05-30 15:13:44,632| Thread-036 | INFO | best valid loss!
+2024-05-30 15:13:44,782| Thread-036 | INFO | epoch time taken: 4.7557968478649855
+2024-05-30 15:13:44,782| Thread-036 | INFO | 
+2024-05-30 15:13:44,782| Thread-036 | INFO | Epoch 11/1999	 learning rate: 0.0001
+2024-05-30 15:13:44,782| Thread-036 | INFO | ----------
+2024-05-30 15:13:48,657| Thread-036 | INFO | train Loss: 0.0109
+2024-05-30 15:13:49,503| Thread-036 | INFO | valid Loss: 0.0111
+2024-05-30 15:13:49,505| Thread-036 | INFO | epoch time taken: 4.722958303056657
+2024-05-30 15:13:49,505| Thread-036 | INFO | 
+2024-05-30 15:13:49,505| Thread-036 | INFO | Epoch 12/1999	 learning rate: 0.0001
+2024-05-30 15:13:49,505| Thread-036 | INFO | ----------
+2024-05-30 15:13:53,573| Thread-036 | INFO | train Loss: 0.0112
+2024-05-30 15:13:54,387| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:13:54,389| Thread-036 | INFO | best valid loss!
+2024-05-30 15:13:54,539| Thread-036 | INFO | epoch time taken: 5.033515678020194
+2024-05-30 15:13:54,539| Thread-036 | INFO | 
+2024-05-30 15:13:54,540| Thread-036 | INFO | Epoch 13/1999	 learning rate: 0.0001
+2024-05-30 15:13:54,540| Thread-036 | INFO | ----------
+2024-05-30 15:13:58,467| Thread-036 | INFO | train Loss: 0.0107
+2024-05-30 15:13:59,255| Thread-036 | INFO | valid Loss: 0.0098
+2024-05-30 15:13:59,258| Thread-036 | INFO | epoch time taken: 4.718178706942126
+2024-05-30 15:13:59,258| Thread-036 | INFO | 
+2024-05-30 15:13:59,258| Thread-036 | INFO | Epoch 14/1999	 learning rate: 0.0001
+2024-05-30 15:13:59,258| Thread-036 | INFO | ----------
+2024-05-30 15:14:03,064| Thread-036 | INFO | train Loss: 0.0105
+2024-05-30 15:14:04,028| Thread-036 | INFO | valid Loss: 0.0095
+2024-05-30 15:14:04,030| Thread-036 | INFO | epoch time taken: 4.772245143074542
+2024-05-30 15:14:04,030| Thread-036 | INFO | 
+2024-05-30 15:14:04,030| Thread-036 | INFO | Epoch 15/1999	 learning rate: 0.0001
+2024-05-30 15:14:04,030| Thread-036 | INFO | ----------
+2024-05-30 15:14:08,101| Thread-036 | INFO | train Loss: 0.0105
+2024-05-30 15:14:08,908| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:14:08,910| Thread-036 | INFO | epoch time taken: 4.879559736000374
+2024-05-30 15:14:08,910| Thread-036 | INFO | 
+2024-05-30 15:14:08,910| Thread-036 | INFO | Epoch 16/1999	 learning rate: 0.0001
+2024-05-30 15:14:08,910| Thread-036 | INFO | ----------
+2024-05-30 15:14:12,922| Thread-036 | INFO | train Loss: 0.0101
+2024-05-30 15:14:13,641| Thread-036 | INFO | valid Loss: 0.0100
+2024-05-30 15:14:13,643| Thread-036 | INFO | epoch time taken: 4.733345791930333
+2024-05-30 15:14:13,644| Thread-036 | INFO | 
+2024-05-30 15:14:13,644| Thread-036 | INFO | Epoch 17/1999	 learning rate: 0.0001
+2024-05-30 15:14:13,644| Thread-036 | INFO | ----------
+2024-05-30 15:14:17,461| Thread-036 | INFO | train Loss: 0.0100
+2024-05-30 15:14:18,169| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:14:18,171| Thread-036 | INFO | best valid loss!
+2024-05-30 15:14:18,318| Thread-036 | INFO | epoch time taken: 4.673903587972745
+2024-05-30 15:14:18,318| Thread-036 | INFO | 
+2024-05-30 15:14:18,318| Thread-036 | INFO | Epoch 18/1999	 learning rate: 0.0001
+2024-05-30 15:14:18,318| Thread-036 | INFO | ----------
+2024-05-30 15:14:22,150| Thread-036 | INFO | train Loss: 0.0097
+2024-05-30 15:14:22,807| Thread-036 | INFO | valid Loss: 0.0090
+2024-05-30 15:14:22,810| Thread-036 | INFO | epoch time taken: 4.491318107815459
+2024-05-30 15:14:22,810| Thread-036 | INFO | 
+2024-05-30 15:14:22,810| Thread-036 | INFO | Epoch 19/1999	 learning rate: 0.0001
+2024-05-30 15:14:22,810| Thread-036 | INFO | ----------
+2024-05-30 15:14:26,572| Thread-036 | INFO | train Loss: 0.0099
+2024-05-30 15:14:27,246| Thread-036 | INFO | valid Loss: 0.0104
+2024-05-30 15:14:27,248| Thread-036 | INFO | epoch time taken: 4.438186538172886
+2024-05-30 15:14:27,248| Thread-036 | INFO | 
+2024-05-30 15:14:27,248| Thread-036 | INFO | Epoch 20/1999	 learning rate: 0.0001
+2024-05-30 15:14:27,248| Thread-036 | INFO | ----------
+2024-05-30 15:14:31,049| Thread-036 | INFO | train Loss: 0.0096
+2024-05-30 15:14:31,655| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:14:31,908| Thread-036 | INFO | epoch time taken: 4.65954376407899
+2024-05-30 15:14:31,908| Thread-036 | INFO | 
+2024-05-30 15:14:31,908| Thread-036 | INFO | Epoch 21/1999	 learning rate: 0.0001
+2024-05-30 15:14:31,908| Thread-036 | INFO | ----------
+2024-05-30 15:14:35,750| Thread-036 | INFO | train Loss: 0.0097
+2024-05-30 15:14:36,375| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:14:36,379| Thread-036 | INFO | epoch time taken: 4.4711892700288445
+2024-05-30 15:14:36,380| Thread-036 | INFO | 
+2024-05-30 15:14:36,380| Thread-036 | INFO | Epoch 22/1999	 learning rate: 0.0001
+2024-05-30 15:14:36,380| Thread-036 | INFO | ----------
+2024-05-30 15:14:40,100| Thread-036 | INFO | train Loss: 0.0091
+2024-05-30 15:14:40,767| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:14:41,005| Thread-036 | INFO | epoch time taken: 4.625672742025927
+2024-05-30 15:14:41,006| Thread-036 | INFO | 
+2024-05-30 15:14:41,006| Thread-036 | INFO | Epoch 23/1999	 learning rate: 0.0001
+2024-05-30 15:14:41,006| Thread-036 | INFO | ----------
+2024-05-30 15:14:44,751| Thread-036 | INFO | train Loss: 0.0091
+2024-05-30 15:14:45,466| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:14:45,469| Thread-036 | INFO | epoch time taken: 4.462856353959069
+2024-05-30 15:14:45,469| Thread-036 | INFO | 
+2024-05-30 15:14:45,469| Thread-036 | INFO | Epoch 24/1999	 learning rate: 0.0001
+2024-05-30 15:14:45,469| Thread-036 | INFO | ----------
+2024-05-30 15:14:49,172| Thread-036 | INFO | train Loss: 0.0091
+2024-05-30 15:14:49,784| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:14:49,849| Thread-036 | INFO | epoch time taken: 4.379944710060954
+2024-05-30 15:14:49,849| Thread-036 | INFO | 
+2024-05-30 15:14:49,849| Thread-036 | INFO | Epoch 25/1999	 learning rate: 0.0001
+2024-05-30 15:14:49,849| Thread-036 | INFO | ----------
+2024-05-30 15:14:53,739| Thread-036 | INFO | train Loss: 0.0089
+2024-05-30 15:14:54,570| Thread-036 | INFO | valid Loss: 0.0099
+2024-05-30 15:14:54,825| Thread-036 | INFO | epoch time taken: 4.976379276020452
+2024-05-30 15:14:54,826| Thread-036 | INFO | 
+2024-05-30 15:14:54,826| Thread-036 | INFO | Epoch 26/1999	 learning rate: 0.0001
+2024-05-30 15:14:54,826| Thread-036 | INFO | ----------
+2024-05-30 15:14:58,861| Thread-036 | INFO | train Loss: 0.0093
+2024-05-30 15:14:59,647| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:14:59,650| Thread-036 | INFO | best valid loss!
+2024-05-30 15:14:59,800| Thread-036 | INFO | epoch time taken: 4.974606076953933
+2024-05-30 15:14:59,801| Thread-036 | INFO | 
+2024-05-30 15:14:59,801| Thread-036 | INFO | Epoch 27/1999	 learning rate: 0.0001
+2024-05-30 15:14:59,801| Thread-036 | INFO | ----------
+2024-05-30 15:15:03,681| Thread-036 | INFO | train Loss: 0.0091
+2024-05-30 15:15:04,387| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:15:04,452| Thread-036 | INFO | epoch time taken: 4.650431249989197
+2024-05-30 15:15:04,452| Thread-036 | INFO | 
+2024-05-30 15:15:04,452| Thread-036 | INFO | Epoch 28/1999	 learning rate: 0.0001
+2024-05-30 15:15:04,452| Thread-036 | INFO | ----------
+2024-05-30 15:15:08,448| Thread-036 | INFO | train Loss: 0.0092
+2024-05-30 15:15:09,279| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:15:09,281| Thread-036 | INFO | epoch time taken: 4.828847782919183
+2024-05-30 15:15:09,281| Thread-036 | INFO | 
+2024-05-30 15:15:09,281| Thread-036 | INFO | Epoch 29/1999	 learning rate: 0.0001
+2024-05-30 15:15:09,281| Thread-036 | INFO | ----------
+2024-05-30 15:15:13,324| Thread-036 | INFO | train Loss: 0.0093
+2024-05-30 15:15:14,103| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:15:14,105| Thread-036 | INFO | epoch time taken: 4.8238009822089225
+2024-05-30 15:15:14,105| Thread-036 | INFO | 
+2024-05-30 15:15:14,105| Thread-036 | INFO | Epoch 30/1999	 learning rate: 0.0001
+2024-05-30 15:15:14,105| Thread-036 | INFO | ----------
+2024-05-30 15:15:17,893| Thread-036 | INFO | train Loss: 0.0089
+2024-05-30 15:15:18,630| Thread-036 | INFO | valid Loss: 0.0129
+2024-05-30 15:15:18,636| Thread-036 | INFO | epoch time taken: 4.530626544961706
+2024-05-30 15:15:18,636| Thread-036 | INFO | 
+2024-05-30 15:15:18,636| Thread-036 | INFO | Epoch 31/1999	 learning rate: 0.0001
+2024-05-30 15:15:18,636| Thread-036 | INFO | ----------
+2024-05-30 15:15:22,544| Thread-036 | INFO | train Loss: 0.0088
+2024-05-30 15:15:23,269| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:15:23,319| Thread-036 | INFO | epoch time taken: 4.683008246123791
+2024-05-30 15:15:23,319| Thread-036 | INFO | 
+2024-05-30 15:15:23,319| Thread-036 | INFO | Epoch 32/1999	 learning rate: 0.0001
+2024-05-30 15:15:23,319| Thread-036 | INFO | ----------
+2024-05-30 15:15:27,052| Thread-036 | INFO | train Loss: 0.0083
+2024-05-30 15:15:27,756| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:15:27,772| Thread-036 | INFO | epoch time taken: 4.452156662940979
+2024-05-30 15:15:27,772| Thread-036 | INFO | 
+2024-05-30 15:15:27,772| Thread-036 | INFO | Epoch 33/1999	 learning rate: 0.0001
+2024-05-30 15:15:27,772| Thread-036 | INFO | ----------
+2024-05-30 15:15:31,554| Thread-036 | INFO | train Loss: 0.0083
+2024-05-30 15:15:32,196| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:15:32,199| Thread-036 | INFO | epoch time taken: 4.426896946970373
+2024-05-30 15:15:32,199| Thread-036 | INFO | 
+2024-05-30 15:15:32,199| Thread-036 | INFO | Epoch 34/1999	 learning rate: 0.0001
+2024-05-30 15:15:32,199| Thread-036 | INFO | ----------
+2024-05-30 15:15:36,080| Thread-036 | INFO | train Loss: 0.0084
+2024-05-30 15:15:36,710| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:15:36,713| Thread-036 | INFO | epoch time taken: 4.5133988440502435
+2024-05-30 15:15:36,713| Thread-036 | INFO | 
+2024-05-30 15:15:36,713| Thread-036 | INFO | Epoch 35/1999	 learning rate: 0.0001
+2024-05-30 15:15:36,713| Thread-036 | INFO | ----------
+2024-05-30 15:15:40,505| Thread-036 | INFO | train Loss: 0.0083
+2024-05-30 15:15:41,129| Thread-036 | INFO | valid Loss: 0.0099
+2024-05-30 15:15:41,147| Thread-036 | INFO | epoch time taken: 4.434697235003114
+2024-05-30 15:15:41,148| Thread-036 | INFO | 
+2024-05-30 15:15:41,148| Thread-036 | INFO | Epoch 36/1999	 learning rate: 0.0001
+2024-05-30 15:15:41,148| Thread-036 | INFO | ----------
+2024-05-30 15:15:45,016| Thread-036 | INFO | train Loss: 0.0082
+2024-05-30 15:15:45,695| Thread-036 | INFO | valid Loss: 0.0098
+2024-05-30 15:15:45,697| Thread-036 | INFO | epoch time taken: 4.549305694177747
+2024-05-30 15:15:45,697| Thread-036 | INFO | 
+2024-05-30 15:15:45,697| Thread-036 | INFO | Epoch 37/1999	 learning rate: 0.0001
+2024-05-30 15:15:45,697| Thread-036 | INFO | ----------
+2024-05-30 15:15:49,524| Thread-036 | INFO | train Loss: 0.0081
+2024-05-30 15:15:50,121| Thread-036 | INFO | valid Loss: 0.0096
+2024-05-30 15:15:50,123| Thread-036 | INFO | epoch time taken: 4.425709565868601
+2024-05-30 15:15:50,123| Thread-036 | INFO | 
+2024-05-30 15:15:50,123| Thread-036 | INFO | Epoch 38/1999	 learning rate: 0.0001
+2024-05-30 15:15:50,123| Thread-036 | INFO | ----------
+2024-05-30 15:15:53,837| Thread-036 | INFO | train Loss: 0.0082
+2024-05-30 15:15:54,502| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:15:54,505| Thread-036 | INFO | epoch time taken: 4.3814328731969
+2024-05-30 15:15:54,505| Thread-036 | INFO | 
+2024-05-30 15:15:54,505| Thread-036 | INFO | Epoch 39/1999	 learning rate: 0.0001
+2024-05-30 15:15:54,505| Thread-036 | INFO | ----------
+2024-05-30 15:15:58,285| Thread-036 | INFO | train Loss: 0.0079
+2024-05-30 15:15:58,891| Thread-036 | INFO | valid Loss: 0.0094
+2024-05-30 15:15:58,894| Thread-036 | INFO | epoch time taken: 4.38860185793601
+2024-05-30 15:15:58,894| Thread-036 | INFO | 
+2024-05-30 15:15:58,894| Thread-036 | INFO | Epoch 40/1999	 learning rate: 0.0001
+2024-05-30 15:15:58,894| Thread-036 | INFO | ----------
+2024-05-30 15:16:02,701| Thread-036 | INFO | train Loss: 0.0081
+2024-05-30 15:16:03,351| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:16:03,353| Thread-036 | INFO | epoch time taken: 4.4594073491171
+2024-05-30 15:16:03,353| Thread-036 | INFO | 
+2024-05-30 15:16:03,353| Thread-036 | INFO | Epoch 41/1999	 learning rate: 0.0001
+2024-05-30 15:16:03,354| Thread-036 | INFO | ----------
+2024-05-30 15:16:06,983| Thread-036 | INFO | train Loss: 0.0078
+2024-05-30 15:16:07,663| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:16:07,666| Thread-036 | INFO | epoch time taken: 4.312284111045301
+2024-05-30 15:16:07,666| Thread-036 | INFO | 
+2024-05-30 15:16:07,666| Thread-036 | INFO | Epoch 42/1999	 learning rate: 0.0001
+2024-05-30 15:16:07,666| Thread-036 | INFO | ----------
+2024-05-30 15:16:11,299| Thread-036 | INFO | train Loss: 0.0078
+2024-05-30 15:16:11,905| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:16:11,908| Thread-036 | INFO | epoch time taken: 4.2419055220671
+2024-05-30 15:16:11,908| Thread-036 | INFO | 
+2024-05-30 15:16:11,908| Thread-036 | INFO | Epoch 43/1999	 learning rate: 0.0001
+2024-05-30 15:16:11,908| Thread-036 | INFO | ----------
+2024-05-30 15:16:15,589| Thread-036 | INFO | train Loss: 0.0080
+2024-05-30 15:16:16,228| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:16:16,231| Thread-036 | INFO | epoch time taken: 4.322692040121183
+2024-05-30 15:16:16,231| Thread-036 | INFO | 
+2024-05-30 15:16:16,231| Thread-036 | INFO | Epoch 44/1999	 learning rate: 0.0001
+2024-05-30 15:16:16,231| Thread-036 | INFO | ----------
+2024-05-30 15:16:19,999| Thread-036 | INFO | train Loss: 0.0078
+2024-05-30 15:16:20,622| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:16:20,625| Thread-036 | INFO | epoch time taken: 4.393635843880475
+2024-05-30 15:16:20,625| Thread-036 | INFO | 
+2024-05-30 15:16:20,625| Thread-036 | INFO | Epoch 45/1999	 learning rate: 0.0001
+2024-05-30 15:16:20,625| Thread-036 | INFO | ----------
+2024-05-30 15:16:24,381| Thread-036 | INFO | train Loss: 0.0077
+2024-05-30 15:16:25,237| Thread-036 | INFO | valid Loss: 0.0096
+2024-05-30 15:16:25,241| Thread-036 | INFO | epoch time taken: 4.616156311007217
+2024-05-30 15:16:25,241| Thread-036 | INFO | 
+2024-05-30 15:16:25,241| Thread-036 | INFO | Epoch 46/1999	 learning rate: 0.0001
+2024-05-30 15:16:25,241| Thread-036 | INFO | ----------
+2024-05-30 15:16:29,169| Thread-036 | INFO | train Loss: 0.0075
+2024-05-30 15:16:29,835| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:16:29,896| Thread-036 | INFO | epoch time taken: 4.655116653069854
+2024-05-30 15:16:29,896| Thread-036 | INFO | 
+2024-05-30 15:16:29,896| Thread-036 | INFO | Epoch 47/1999	 learning rate: 0.0001
+2024-05-30 15:16:29,896| Thread-036 | INFO | ----------
+2024-05-30 15:16:33,773| Thread-036 | INFO | train Loss: 0.0079
+2024-05-30 15:16:34,425| Thread-036 | INFO | valid Loss: 0.0114
+2024-05-30 15:16:34,434| Thread-036 | INFO | epoch time taken: 4.537175182020292
+2024-05-30 15:16:34,434| Thread-036 | INFO | 
+2024-05-30 15:16:34,434| Thread-036 | INFO | Epoch 48/1999	 learning rate: 0.0001
+2024-05-30 15:16:34,434| Thread-036 | INFO | ----------
+2024-05-30 15:16:38,177| Thread-036 | INFO | train Loss: 0.0076
+2024-05-30 15:16:38,924| Thread-036 | INFO | valid Loss: 0.0092
+2024-05-30 15:16:38,927| Thread-036 | INFO | epoch time taken: 4.493102121865377
+2024-05-30 15:16:38,927| Thread-036 | INFO | 
+2024-05-30 15:16:38,927| Thread-036 | INFO | Epoch 49/1999	 learning rate: 0.0001
+2024-05-30 15:16:38,927| Thread-036 | INFO | ----------
+2024-05-30 15:16:42,674| Thread-036 | INFO | train Loss: 0.0075
+2024-05-30 15:16:43,335| Thread-036 | INFO | valid Loss: 0.0101
+2024-05-30 15:16:43,337| Thread-036 | INFO | epoch time taken: 4.41006477503106
+2024-05-30 15:16:43,337| Thread-036 | INFO | 
+2024-05-30 15:16:43,337| Thread-036 | INFO | Epoch 50/1999	 learning rate: 0.0001
+2024-05-30 15:16:43,337| Thread-036 | INFO | ----------
+2024-05-30 15:16:47,215| Thread-036 | INFO | train Loss: 0.0075
+2024-05-30 15:16:47,844| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:16:47,847| Thread-036 | INFO | epoch time taken: 4.50949176796712
+2024-05-30 15:16:47,847| Thread-036 | INFO | 
+2024-05-30 15:16:47,847| Thread-036 | INFO | Epoch 51/1999	 learning rate: 0.0001
+2024-05-30 15:16:47,847| Thread-036 | INFO | ----------
+2024-05-30 15:16:51,700| Thread-036 | INFO | train Loss: 0.0078
+2024-05-30 15:16:52,353| Thread-036 | INFO | valid Loss: 0.0066
+2024-05-30 15:16:52,536| Thread-036 | INFO | best valid loss!
+2024-05-30 15:16:52,728| Thread-036 | INFO | epoch time taken: 4.881137026939541
+2024-05-30 15:16:52,728| Thread-036 | INFO | 
+2024-05-30 15:16:52,729| Thread-036 | INFO | Epoch 52/1999	 learning rate: 0.0001
+2024-05-30 15:16:52,729| Thread-036 | INFO | ----------
+2024-05-30 15:16:56,424| Thread-036 | INFO | train Loss: 0.0077
+2024-05-30 15:16:57,071| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:16:57,073| Thread-036 | INFO | epoch time taken: 4.344025267055258
+2024-05-30 15:16:57,073| Thread-036 | INFO | 
+2024-05-30 15:16:57,073| Thread-036 | INFO | Epoch 53/1999	 learning rate: 0.0001
+2024-05-30 15:16:57,073| Thread-036 | INFO | ----------
+2024-05-30 15:17:00,956| Thread-036 | INFO | train Loss: 0.0077
+2024-05-30 15:17:01,651| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:17:01,653| Thread-036 | INFO | epoch time taken: 4.579793787095696
+2024-05-30 15:17:01,653| Thread-036 | INFO | 
+2024-05-30 15:17:01,653| Thread-036 | INFO | Epoch 54/1999	 learning rate: 0.0001
+2024-05-30 15:17:01,653| Thread-036 | INFO | ----------
+2024-05-30 15:17:05,579| Thread-036 | INFO | train Loss: 0.0073
+2024-05-30 15:17:06,249| Thread-036 | INFO | valid Loss: 0.0100
+2024-05-30 15:17:06,251| Thread-036 | INFO | epoch time taken: 4.598163868999109
+2024-05-30 15:17:06,251| Thread-036 | INFO | 
+2024-05-30 15:17:06,251| Thread-036 | INFO | Epoch 55/1999	 learning rate: 0.0001
+2024-05-30 15:17:06,252| Thread-036 | INFO | ----------
+2024-05-30 15:17:09,961| Thread-036 | INFO | train Loss: 0.0074
+2024-05-30 15:17:10,608| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:17:10,611| Thread-036 | INFO | epoch time taken: 4.3590151409152895
+2024-05-30 15:17:10,611| Thread-036 | INFO | 
+2024-05-30 15:17:10,611| Thread-036 | INFO | Epoch 56/1999	 learning rate: 0.0001
+2024-05-30 15:17:10,611| Thread-036 | INFO | ----------
+2024-05-30 15:17:14,358| Thread-036 | INFO | train Loss: 0.0071
+2024-05-30 15:17:15,203| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:17:15,216| Thread-036 | INFO | epoch time taken: 4.605177523102611
+2024-05-30 15:17:15,216| Thread-036 | INFO | 
+2024-05-30 15:17:15,216| Thread-036 | INFO | Epoch 57/1999	 learning rate: 0.0001
+2024-05-30 15:17:15,216| Thread-036 | INFO | ----------
+2024-05-30 15:17:19,209| Thread-036 | INFO | train Loss: 0.0073
+2024-05-30 15:17:19,925| Thread-036 | INFO | valid Loss: 0.0064
+2024-05-30 15:17:19,928| Thread-036 | INFO | best valid loss!
+2024-05-30 15:17:20,099| Thread-036 | INFO | epoch time taken: 4.8823381250258535
+2024-05-30 15:17:20,099| Thread-036 | INFO | 
+2024-05-30 15:17:20,100| Thread-036 | INFO | Epoch 58/1999	 learning rate: 0.0001
+2024-05-30 15:17:20,100| Thread-036 | INFO | ----------
+2024-05-30 15:17:23,923| Thread-036 | INFO | train Loss: 0.0075
+2024-05-30 15:17:24,625| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:17:24,628| Thread-036 | INFO | epoch time taken: 4.528537693899125
+2024-05-30 15:17:24,628| Thread-036 | INFO | 
+2024-05-30 15:17:24,628| Thread-036 | INFO | Epoch 59/1999	 learning rate: 0.0001
+2024-05-30 15:17:24,629| Thread-036 | INFO | ----------
+2024-05-30 15:17:28,620| Thread-036 | INFO | train Loss: 0.0077
+2024-05-30 15:17:29,409| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:17:29,412| Thread-036 | INFO | epoch time taken: 4.783250233158469
+2024-05-30 15:17:29,412| Thread-036 | INFO | 
+2024-05-30 15:17:29,412| Thread-036 | INFO | Epoch 60/1999	 learning rate: 0.0001
+2024-05-30 15:17:29,412| Thread-036 | INFO | ----------
+2024-05-30 15:17:33,300| Thread-036 | INFO | train Loss: 0.0071
+2024-05-30 15:17:34,037| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:17:34,039| Thread-036 | INFO | epoch time taken: 4.627274418948218
+2024-05-30 15:17:34,040| Thread-036 | INFO | 
+2024-05-30 15:17:34,040| Thread-036 | INFO | Epoch 61/1999	 learning rate: 0.0001
+2024-05-30 15:17:34,040| Thread-036 | INFO | ----------
+2024-05-30 15:17:37,917| Thread-036 | INFO | train Loss: 0.0072
+2024-05-30 15:17:38,555| Thread-036 | INFO | valid Loss: 0.0107
+2024-05-30 15:17:38,557| Thread-036 | INFO | epoch time taken: 4.517546098912135
+2024-05-30 15:17:38,557| Thread-036 | INFO | 
+2024-05-30 15:17:38,558| Thread-036 | INFO | Epoch 62/1999	 learning rate: 0.0001
+2024-05-30 15:17:38,558| Thread-036 | INFO | ----------
+2024-05-30 15:17:42,323| Thread-036 | INFO | train Loss: 0.0073
+2024-05-30 15:17:43,018| Thread-036 | INFO | valid Loss: 0.0096
+2024-05-30 15:17:43,020| Thread-036 | INFO | epoch time taken: 4.462521102977917
+2024-05-30 15:17:43,020| Thread-036 | INFO | 
+2024-05-30 15:17:43,021| Thread-036 | INFO | Epoch 63/1999	 learning rate: 0.0001
+2024-05-30 15:17:43,021| Thread-036 | INFO | ----------
+2024-05-30 15:17:46,883| Thread-036 | INFO | train Loss: 0.0072
+2024-05-30 15:17:47,639| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:17:47,641| Thread-036 | INFO | epoch time taken: 4.620790041051805
+2024-05-30 15:17:47,641| Thread-036 | INFO | 
+2024-05-30 15:17:47,642| Thread-036 | INFO | Epoch 64/1999	 learning rate: 0.0001
+2024-05-30 15:17:47,642| Thread-036 | INFO | ----------
+2024-05-30 15:17:51,387| Thread-036 | INFO | train Loss: 0.0075
+2024-05-30 15:17:52,039| Thread-036 | INFO | valid Loss: 0.0101
+2024-05-30 15:17:52,041| Thread-036 | INFO | epoch time taken: 4.399608989013359
+2024-05-30 15:17:52,041| Thread-036 | INFO | 
+2024-05-30 15:17:52,041| Thread-036 | INFO | Epoch 65/1999	 learning rate: 0.0001
+2024-05-30 15:17:52,041| Thread-036 | INFO | ----------
+2024-05-30 15:17:55,724| Thread-036 | INFO | train Loss: 0.0076
+2024-05-30 15:17:56,382| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:17:56,384| Thread-036 | INFO | epoch time taken: 4.342710540862754
+2024-05-30 15:17:56,384| Thread-036 | INFO | 
+2024-05-30 15:17:56,384| Thread-036 | INFO | Epoch 66/1999	 learning rate: 0.0001
+2024-05-30 15:17:56,384| Thread-036 | INFO | ----------
+2024-05-30 15:18:00,089| Thread-036 | INFO | train Loss: 0.0071
+2024-05-30 15:18:00,720| Thread-036 | INFO | valid Loss: 0.0092
+2024-05-30 15:18:00,722| Thread-036 | INFO | epoch time taken: 4.337933625094593
+2024-05-30 15:18:00,722| Thread-036 | INFO | 
+2024-05-30 15:18:00,722| Thread-036 | INFO | Epoch 67/1999	 learning rate: 0.0001
+2024-05-30 15:18:00,722| Thread-036 | INFO | ----------
+2024-05-30 15:18:04,463| Thread-036 | INFO | train Loss: 0.0071
+2024-05-30 15:18:05,106| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:18:05,140| Thread-036 | INFO | epoch time taken: 4.417973734904081
+2024-05-30 15:18:05,140| Thread-036 | INFO | 
+2024-05-30 15:18:05,141| Thread-036 | INFO | Epoch 68/1999	 learning rate: 0.0001
+2024-05-30 15:18:05,141| Thread-036 | INFO | ----------
+2024-05-30 15:18:08,746| Thread-036 | INFO | train Loss: 0.0070
+2024-05-30 15:18:09,377| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:18:09,380| Thread-036 | INFO | epoch time taken: 4.239259019959718
+2024-05-30 15:18:09,380| Thread-036 | INFO | 
+2024-05-30 15:18:09,380| Thread-036 | INFO | Epoch 69/1999	 learning rate: 0.0001
+2024-05-30 15:18:09,380| Thread-036 | INFO | ----------
+2024-05-30 15:18:13,210| Thread-036 | INFO | train Loss: 0.0077
+2024-05-30 15:18:13,810| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:18:13,812| Thread-036 | INFO | epoch time taken: 4.431891156127676
+2024-05-30 15:18:13,812| Thread-036 | INFO | 
+2024-05-30 15:18:13,812| Thread-036 | INFO | Epoch 70/1999	 learning rate: 0.0001
+2024-05-30 15:18:13,812| Thread-036 | INFO | ----------
+2024-05-30 15:18:17,527| Thread-036 | INFO | train Loss: 0.0070
+2024-05-30 15:18:18,194| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:18:18,260| Thread-036 | INFO | epoch time taken: 4.447943379171193
+2024-05-30 15:18:18,260| Thread-036 | INFO | 
+2024-05-30 15:18:18,260| Thread-036 | INFO | Epoch 71/1999	 learning rate: 0.0001
+2024-05-30 15:18:18,261| Thread-036 | INFO | ----------
+2024-05-30 15:18:21,963| Thread-036 | INFO | train Loss: 0.0069
+2024-05-30 15:18:22,597| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:18:22,599| Thread-036 | INFO | epoch time taken: 4.338616349035874
+2024-05-30 15:18:22,599| Thread-036 | INFO | 
+2024-05-30 15:18:22,599| Thread-036 | INFO | Epoch 72/1999	 learning rate: 0.0001
+2024-05-30 15:18:22,599| Thread-036 | INFO | ----------
+2024-05-30 15:18:26,368| Thread-036 | INFO | train Loss: 0.0070
+2024-05-30 15:18:26,961| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:18:26,964| Thread-036 | INFO | epoch time taken: 4.3642817158252
+2024-05-30 15:18:26,964| Thread-036 | INFO | 
+2024-05-30 15:18:26,964| Thread-036 | INFO | Epoch 73/1999	 learning rate: 0.0001
+2024-05-30 15:18:26,964| Thread-036 | INFO | ----------
+2024-05-30 15:18:30,739| Thread-036 | INFO | train Loss: 0.0068
+2024-05-30 15:18:31,391| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:18:31,393| Thread-036 | INFO | epoch time taken: 4.429278834955767
+2024-05-30 15:18:31,393| Thread-036 | INFO | 
+2024-05-30 15:18:31,393| Thread-036 | INFO | Epoch 74/1999	 learning rate: 0.0001
+2024-05-30 15:18:31,393| Thread-036 | INFO | ----------
+2024-05-30 15:18:35,234| Thread-036 | INFO | train Loss: 0.0068
+2024-05-30 15:18:36,063| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:18:36,065| Thread-036 | INFO | epoch time taken: 4.671537325019017
+2024-05-30 15:18:36,065| Thread-036 | INFO | 
+2024-05-30 15:18:36,065| Thread-036 | INFO | Epoch 75/1999	 learning rate: 0.0001
+2024-05-30 15:18:36,065| Thread-036 | INFO | ----------
+2024-05-30 15:18:40,155| Thread-036 | INFO | train Loss: 0.0068
+2024-05-30 15:18:40,991| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:18:40,993| Thread-036 | INFO | epoch time taken: 4.928106178063899
+2024-05-30 15:18:40,993| Thread-036 | INFO | 
+2024-05-30 15:18:40,993| Thread-036 | INFO | Epoch 76/1999	 learning rate: 0.0001
+2024-05-30 15:18:40,993| Thread-036 | INFO | ----------
+2024-05-30 15:18:45,021| Thread-036 | INFO | train Loss: 0.0068
+2024-05-30 15:18:45,720| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:18:45,722| Thread-036 | INFO | epoch time taken: 4.72881337814033
+2024-05-30 15:18:45,722| Thread-036 | INFO | 
+2024-05-30 15:18:45,722| Thread-036 | INFO | Epoch 77/1999	 learning rate: 0.0001
+2024-05-30 15:18:45,723| Thread-036 | INFO | ----------
+2024-05-30 15:18:49,628| Thread-036 | INFO | train Loss: 0.0066
+2024-05-30 15:18:50,326| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:18:50,328| Thread-036 | INFO | epoch time taken: 4.605388451833278
+2024-05-30 15:18:50,328| Thread-036 | INFO | 
+2024-05-30 15:18:50,328| Thread-036 | INFO | Epoch 78/1999	 learning rate: 0.0001
+2024-05-30 15:18:50,328| Thread-036 | INFO | ----------
+2024-05-30 15:18:54,165| Thread-036 | INFO | train Loss: 0.0069
+2024-05-30 15:18:54,838| Thread-036 | INFO | valid Loss: 0.0102
+2024-05-30 15:18:54,860| Thread-036 | INFO | epoch time taken: 4.531505584018305
+2024-05-30 15:18:54,860| Thread-036 | INFO | 
+2024-05-30 15:18:54,860| Thread-036 | INFO | Epoch 79/1999	 learning rate: 0.0001
+2024-05-30 15:18:54,860| Thread-036 | INFO | ----------
+2024-05-30 15:18:58,596| Thread-036 | INFO | train Loss: 0.0069
+2024-05-30 15:18:59,244| Thread-036 | INFO | valid Loss: 0.0095
+2024-05-30 15:18:59,247| Thread-036 | INFO | epoch time taken: 4.386977683054283
+2024-05-30 15:18:59,247| Thread-036 | INFO | 
+2024-05-30 15:18:59,247| Thread-036 | INFO | Epoch 80/1999	 learning rate: 0.0001
+2024-05-30 15:18:59,247| Thread-036 | INFO | ----------
+2024-05-30 15:19:02,984| Thread-036 | INFO | train Loss: 0.0068
+2024-05-30 15:19:03,651| Thread-036 | INFO | valid Loss: 0.0100
+2024-05-30 15:19:03,653| Thread-036 | INFO | epoch time taken: 4.406353530008346
+2024-05-30 15:19:03,654| Thread-036 | INFO | 
+2024-05-30 15:19:03,654| Thread-036 | INFO | Epoch 81/1999	 learning rate: 0.0001
+2024-05-30 15:19:03,654| Thread-036 | INFO | ----------
+2024-05-30 15:19:07,368| Thread-036 | INFO | train Loss: 0.0067
+2024-05-30 15:19:08,068| Thread-036 | INFO | valid Loss: 0.0094
+2024-05-30 15:19:08,071| Thread-036 | INFO | epoch time taken: 4.417023535817862
+2024-05-30 15:19:08,071| Thread-036 | INFO | 
+2024-05-30 15:19:08,071| Thread-036 | INFO | Epoch 82/1999	 learning rate: 0.0001
+2024-05-30 15:19:08,071| Thread-036 | INFO | ----------
+2024-05-30 15:19:11,881| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:19:12,522| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:19:12,524| Thread-036 | INFO | epoch time taken: 4.452670886181295
+2024-05-30 15:19:12,524| Thread-036 | INFO | 
+2024-05-30 15:19:12,524| Thread-036 | INFO | Epoch 83/1999	 learning rate: 0.0001
+2024-05-30 15:19:12,524| Thread-036 | INFO | ----------
+2024-05-30 15:19:16,396| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:19:17,031| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:19:17,062| Thread-036 | INFO | epoch time taken: 4.537789679830894
+2024-05-30 15:19:17,062| Thread-036 | INFO | 
+2024-05-30 15:19:17,062| Thread-036 | INFO | Epoch 84/1999	 learning rate: 0.0001
+2024-05-30 15:19:17,062| Thread-036 | INFO | ----------
+2024-05-30 15:19:20,941| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:19:21,803| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:19:21,812| Thread-036 | INFO | epoch time taken: 4.7497167200781405
+2024-05-30 15:19:21,812| Thread-036 | INFO | 
+2024-05-30 15:19:21,812| Thread-036 | INFO | Epoch 85/1999	 learning rate: 0.0001
+2024-05-30 15:19:21,812| Thread-036 | INFO | ----------
+2024-05-30 15:19:25,747| Thread-036 | INFO | train Loss: 0.0066
+2024-05-30 15:19:26,487| Thread-036 | INFO | valid Loss: 0.0101
+2024-05-30 15:19:26,553| Thread-036 | INFO | epoch time taken: 4.741256179055199
+2024-05-30 15:19:26,553| Thread-036 | INFO | 
+2024-05-30 15:19:26,553| Thread-036 | INFO | Epoch 86/1999	 learning rate: 0.0001
+2024-05-30 15:19:26,553| Thread-036 | INFO | ----------
+2024-05-30 15:19:30,438| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:19:31,344| Thread-036 | INFO | valid Loss: 0.0095
+2024-05-30 15:19:31,358| Thread-036 | INFO | epoch time taken: 4.804852032102644
+2024-05-30 15:19:31,358| Thread-036 | INFO | 
+2024-05-30 15:19:31,359| Thread-036 | INFO | Epoch 87/1999	 learning rate: 0.0001
+2024-05-30 15:19:31,359| Thread-036 | INFO | ----------
+2024-05-30 15:19:35,489| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:19:36,164| Thread-036 | INFO | valid Loss: 0.0090
+2024-05-30 15:19:36,169| Thread-036 | INFO | epoch time taken: 4.810312920017168
+2024-05-30 15:19:36,169| Thread-036 | INFO | 
+2024-05-30 15:19:36,169| Thread-036 | INFO | Epoch 88/1999	 learning rate: 0.0001
+2024-05-30 15:19:36,169| Thread-036 | INFO | ----------
+2024-05-30 15:19:39,928| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:19:40,675| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:19:40,826| Thread-036 | INFO | epoch time taken: 4.657252531033009
+2024-05-30 15:19:40,827| Thread-036 | INFO | 
+2024-05-30 15:19:40,827| Thread-036 | INFO | Epoch 89/1999	 learning rate: 0.0001
+2024-05-30 15:19:40,827| Thread-036 | INFO | ----------
+2024-05-30 15:19:44,676| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:19:45,417| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:19:45,419| Thread-036 | INFO | epoch time taken: 4.592250969959423
+2024-05-30 15:19:45,419| Thread-036 | INFO | 
+2024-05-30 15:19:45,419| Thread-036 | INFO | Epoch 90/1999	 learning rate: 0.0001
+2024-05-30 15:19:45,419| Thread-036 | INFO | ----------
+2024-05-30 15:19:49,332| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:19:50,019| Thread-036 | INFO | valid Loss: 0.0096
+2024-05-30 15:19:50,070| Thread-036 | INFO | epoch time taken: 4.650901607004926
+2024-05-30 15:19:50,070| Thread-036 | INFO | 
+2024-05-30 15:19:50,070| Thread-036 | INFO | Epoch 91/1999	 learning rate: 0.0001
+2024-05-30 15:19:50,071| Thread-036 | INFO | ----------
+2024-05-30 15:19:53,753| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:19:54,621| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:19:54,623| Thread-036 | INFO | epoch time taken: 4.5528391629923135
+2024-05-30 15:19:54,623| Thread-036 | INFO | 
+2024-05-30 15:19:54,623| Thread-036 | INFO | Epoch 92/1999	 learning rate: 0.0001
+2024-05-30 15:19:54,624| Thread-036 | INFO | ----------
+2024-05-30 15:19:58,664| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:19:59,409| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:19:59,414| Thread-036 | INFO | epoch time taken: 4.790786401135847
+2024-05-30 15:19:59,414| Thread-036 | INFO | 
+2024-05-30 15:19:59,414| Thread-036 | INFO | Epoch 93/1999	 learning rate: 0.0001
+2024-05-30 15:19:59,414| Thread-036 | INFO | ----------
+2024-05-30 15:20:03,312| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:20:04,055| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:20:04,057| Thread-036 | INFO | epoch time taken: 4.64275489305146
+2024-05-30 15:20:04,057| Thread-036 | INFO | 
+2024-05-30 15:20:04,057| Thread-036 | INFO | Epoch 94/1999	 learning rate: 0.0001
+2024-05-30 15:20:04,057| Thread-036 | INFO | ----------
+2024-05-30 15:20:07,931| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:20:08,555| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:20:08,557| Thread-036 | INFO | epoch time taken: 4.499980475055054
+2024-05-30 15:20:08,557| Thread-036 | INFO | 
+2024-05-30 15:20:08,558| Thread-036 | INFO | Epoch 95/1999	 learning rate: 0.0001
+2024-05-30 15:20:08,558| Thread-036 | INFO | ----------
+2024-05-30 15:20:12,377| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:20:13,065| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:20:13,084| Thread-036 | INFO | epoch time taken: 4.526146112009883
+2024-05-30 15:20:13,084| Thread-036 | INFO | 
+2024-05-30 15:20:13,084| Thread-036 | INFO | Epoch 96/1999	 learning rate: 0.0001
+2024-05-30 15:20:13,084| Thread-036 | INFO | ----------
+2024-05-30 15:20:16,947| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:20:17,717| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:20:17,719| Thread-036 | INFO | epoch time taken: 4.6348947319202125
+2024-05-30 15:20:17,719| Thread-036 | INFO | 
+2024-05-30 15:20:17,719| Thread-036 | INFO | Epoch 97/1999	 learning rate: 0.0001
+2024-05-30 15:20:17,719| Thread-036 | INFO | ----------
+2024-05-30 15:20:21,537| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:20:22,303| Thread-036 | INFO | valid Loss: 0.0104
+2024-05-30 15:20:22,305| Thread-036 | INFO | epoch time taken: 4.5862274242099375
+2024-05-30 15:20:22,306| Thread-036 | INFO | 
+2024-05-30 15:20:22,306| Thread-036 | INFO | Epoch 98/1999	 learning rate: 0.0001
+2024-05-30 15:20:22,306| Thread-036 | INFO | ----------
+2024-05-30 15:20:26,106| Thread-036 | INFO | train Loss: 0.0067
+2024-05-30 15:20:27,021| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:20:27,023| Thread-036 | INFO | epoch time taken: 4.717002792051062
+2024-05-30 15:20:27,023| Thread-036 | INFO | 
+2024-05-30 15:20:27,023| Thread-036 | INFO | Epoch 99/1999	 learning rate: 0.0001
+2024-05-30 15:20:27,023| Thread-036 | INFO | ----------
+2024-05-30 15:20:31,039| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:20:31,759| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:20:31,761| Thread-036 | INFO | epoch time taken: 4.738099061185494
+2024-05-30 15:20:31,761| Thread-036 | INFO | 
+2024-05-30 15:20:31,761| Thread-036 | INFO | Epoch 100/1999	 learning rate: 0.0001
+2024-05-30 15:20:31,761| Thread-036 | INFO | ----------
+2024-05-30 15:20:35,479| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:20:36,167| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:20:36,170| Thread-036 | INFO | epoch time taken: 4.408888603094965
+2024-05-30 15:20:36,170| Thread-036 | INFO | 
+2024-05-30 15:20:36,170| Thread-036 | INFO | Epoch 101/1999	 learning rate: 0.0001
+2024-05-30 15:20:36,170| Thread-036 | INFO | ----------
+2024-05-30 15:20:39,959| Thread-036 | INFO | train Loss: 0.0066
+2024-05-30 15:20:40,626| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:20:40,728| Thread-036 | INFO | epoch time taken: 4.557620044099167
+2024-05-30 15:20:40,728| Thread-036 | INFO | 
+2024-05-30 15:20:40,728| Thread-036 | INFO | Epoch 102/1999	 learning rate: 0.0001
+2024-05-30 15:20:40,728| Thread-036 | INFO | ----------
+2024-05-30 15:20:44,441| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:20:45,087| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:20:45,089| Thread-036 | INFO | epoch time taken: 4.360954063944519
+2024-05-30 15:20:45,089| Thread-036 | INFO | 
+2024-05-30 15:20:45,089| Thread-036 | INFO | Epoch 103/1999	 learning rate: 0.0001
+2024-05-30 15:20:45,089| Thread-036 | INFO | ----------
+2024-05-30 15:20:48,941| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:20:49,569| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:20:49,571| Thread-036 | INFO | epoch time taken: 4.481969998916611
+2024-05-30 15:20:49,572| Thread-036 | INFO | 
+2024-05-30 15:20:49,572| Thread-036 | INFO | Epoch 104/1999	 learning rate: 0.0001
+2024-05-30 15:20:49,572| Thread-036 | INFO | ----------
+2024-05-30 15:20:53,401| Thread-036 | INFO | train Loss: 0.0065
+2024-05-30 15:20:54,037| Thread-036 | INFO | valid Loss: 0.0107
+2024-05-30 15:20:54,040| Thread-036 | INFO | epoch time taken: 4.468459757976234
+2024-05-30 15:20:54,040| Thread-036 | INFO | 
+2024-05-30 15:20:54,040| Thread-036 | INFO | Epoch 105/1999	 learning rate: 0.0001
+2024-05-30 15:20:54,040| Thread-036 | INFO | ----------
+2024-05-30 15:20:57,875| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:20:58,543| Thread-036 | INFO | valid Loss: 0.0090
+2024-05-30 15:20:58,545| Thread-036 | INFO | epoch time taken: 4.504734818125144
+2024-05-30 15:20:58,545| Thread-036 | INFO | 
+2024-05-30 15:20:58,545| Thread-036 | INFO | Epoch 106/1999	 learning rate: 0.0001
+2024-05-30 15:20:58,545| Thread-036 | INFO | ----------
+2024-05-30 15:21:02,367| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:21:03,034| Thread-036 | INFO | valid Loss: 0.0108
+2024-05-30 15:21:03,037| Thread-036 | INFO | epoch time taken: 4.49130361690186
+2024-05-30 15:21:03,037| Thread-036 | INFO | 
+2024-05-30 15:21:03,037| Thread-036 | INFO | Epoch 107/1999	 learning rate: 0.0001
+2024-05-30 15:21:03,037| Thread-036 | INFO | ----------
+2024-05-30 15:21:06,690| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:21:07,300| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:21:07,303| Thread-036 | INFO | epoch time taken: 4.266307906946167
+2024-05-30 15:21:07,303| Thread-036 | INFO | 
+2024-05-30 15:21:07,303| Thread-036 | INFO | Epoch 108/1999	 learning rate: 0.0001
+2024-05-30 15:21:07,303| Thread-036 | INFO | ----------
+2024-05-30 15:21:11,012| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:21:11,708| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:21:11,710| Thread-036 | INFO | epoch time taken: 4.406888725003228
+2024-05-30 15:21:11,710| Thread-036 | INFO | 
+2024-05-30 15:21:11,710| Thread-036 | INFO | Epoch 109/1999	 learning rate: 0.0001
+2024-05-30 15:21:11,710| Thread-036 | INFO | ----------
+2024-05-30 15:21:15,409| Thread-036 | INFO | train Loss: 0.0066
+2024-05-30 15:21:16,065| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:21:16,068| Thread-036 | INFO | epoch time taken: 4.357344671152532
+2024-05-30 15:21:16,068| Thread-036 | INFO | 
+2024-05-30 15:21:16,068| Thread-036 | INFO | Epoch 110/1999	 learning rate: 0.0001
+2024-05-30 15:21:16,068| Thread-036 | INFO | ----------
+2024-05-30 15:21:19,863| Thread-036 | INFO | train Loss: 0.0061
+2024-05-30 15:21:20,441| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:21:20,465| Thread-036 | INFO | epoch time taken: 4.397043525939807
+2024-05-30 15:21:20,465| Thread-036 | INFO | 
+2024-05-30 15:21:20,465| Thread-036 | INFO | Epoch 111/1999	 learning rate: 0.0001
+2024-05-30 15:21:20,465| Thread-036 | INFO | ----------
+2024-05-30 15:21:24,262| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:21:24,891| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:21:25,129| Thread-036 | INFO | epoch time taken: 4.664039656985551
+2024-05-30 15:21:25,129| Thread-036 | INFO | 
+2024-05-30 15:21:25,130| Thread-036 | INFO | Epoch 112/1999	 learning rate: 0.0001
+2024-05-30 15:21:25,130| Thread-036 | INFO | ----------
+2024-05-30 15:21:29,047| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:21:29,706| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:21:29,713| Thread-036 | INFO | epoch time taken: 4.583517924882472
+2024-05-30 15:21:29,713| Thread-036 | INFO | 
+2024-05-30 15:21:29,713| Thread-036 | INFO | Epoch 113/1999	 learning rate: 0.0001
+2024-05-30 15:21:29,713| Thread-036 | INFO | ----------
+2024-05-30 15:21:33,533| Thread-036 | INFO | train Loss: 0.0064
+2024-05-30 15:21:34,174| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:21:34,272| Thread-036 | INFO | epoch time taken: 4.558465830050409
+2024-05-30 15:21:34,272| Thread-036 | INFO | 
+2024-05-30 15:21:34,272| Thread-036 | INFO | Epoch 114/1999	 learning rate: 0.0001
+2024-05-30 15:21:34,272| Thread-036 | INFO | ----------
+2024-05-30 15:21:38,092| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:21:38,701| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:21:38,713| Thread-036 | INFO | epoch time taken: 4.440914954058826
+2024-05-30 15:21:38,713| Thread-036 | INFO | 
+2024-05-30 15:21:38,713| Thread-036 | INFO | Epoch 115/1999	 learning rate: 0.0001
+2024-05-30 15:21:38,713| Thread-036 | INFO | ----------
+2024-05-30 15:21:42,398| Thread-036 | INFO | train Loss: 0.0061
+2024-05-30 15:21:43,011| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:21:43,014| Thread-036 | INFO | epoch time taken: 4.300594772910699
+2024-05-30 15:21:43,014| Thread-036 | INFO | 
+2024-05-30 15:21:43,014| Thread-036 | INFO | Epoch 116/1999	 learning rate: 0.0001
+2024-05-30 15:21:43,014| Thread-036 | INFO | ----------
+2024-05-30 15:21:46,914| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:21:47,792| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:21:48,054| Thread-036 | INFO | epoch time taken: 5.0395630449056625
+2024-05-30 15:21:48,054| Thread-036 | INFO | 
+2024-05-30 15:21:48,054| Thread-036 | INFO | Epoch 117/1999	 learning rate: 0.0001
+2024-05-30 15:21:48,054| Thread-036 | INFO | ----------
+2024-05-30 15:21:51,993| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:21:52,720| Thread-036 | INFO | valid Loss: 0.0093
+2024-05-30 15:21:52,748| Thread-036 | INFO | epoch time taken: 4.693734145956114
+2024-05-30 15:21:52,748| Thread-036 | INFO | 
+2024-05-30 15:21:52,748| Thread-036 | INFO | Epoch 118/1999	 learning rate: 0.0001
+2024-05-30 15:21:52,748| Thread-036 | INFO | ----------
+2024-05-30 15:21:56,571| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:21:57,249| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:21:57,252| Thread-036 | INFO | epoch time taken: 4.5033062431029975
+2024-05-30 15:21:57,252| Thread-036 | INFO | 
+2024-05-30 15:21:57,252| Thread-036 | INFO | Epoch 119/1999	 learning rate: 0.0001
+2024-05-30 15:21:57,252| Thread-036 | INFO | ----------
+2024-05-30 15:22:00,956| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:22:01,564| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:22:01,567| Thread-036 | INFO | epoch time taken: 4.31500464794226
+2024-05-30 15:22:01,567| Thread-036 | INFO | 
+2024-05-30 15:22:01,567| Thread-036 | INFO | Epoch 120/1999	 learning rate: 0.0001
+2024-05-30 15:22:01,567| Thread-036 | INFO | ----------
+2024-05-30 15:22:05,435| Thread-036 | INFO | train Loss: 0.0062
+2024-05-30 15:22:06,102| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:22:06,104| Thread-036 | INFO | epoch time taken: 4.537254669005051
+2024-05-30 15:22:06,104| Thread-036 | INFO | 
+2024-05-30 15:22:06,104| Thread-036 | INFO | Epoch 121/1999	 learning rate: 0.0001
+2024-05-30 15:22:06,104| Thread-036 | INFO | ----------
+2024-05-30 15:22:09,935| Thread-036 | INFO | train Loss: 0.0061
+2024-05-30 15:22:10,545| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:22:10,556| Thread-036 | INFO | epoch time taken: 4.451370303984731
+2024-05-30 15:22:10,556| Thread-036 | INFO | 
+2024-05-30 15:22:10,556| Thread-036 | INFO | Epoch 122/1999	 learning rate: 0.0001
+2024-05-30 15:22:10,556| Thread-036 | INFO | ----------
+2024-05-30 15:22:14,420| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:22:15,084| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:22:15,105| Thread-036 | INFO | epoch time taken: 4.548942836932838
+2024-05-30 15:22:15,105| Thread-036 | INFO | 
+2024-05-30 15:22:15,105| Thread-036 | INFO | Epoch 123/1999	 learning rate: 0.0001
+2024-05-30 15:22:15,105| Thread-036 | INFO | ----------
+2024-05-30 15:22:18,873| Thread-036 | INFO | train Loss: 0.0063
+2024-05-30 15:22:19,848| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:22:19,900| Thread-036 | INFO | epoch time taken: 4.79442836297676
+2024-05-30 15:22:19,900| Thread-036 | INFO | 
+2024-05-30 15:22:19,900| Thread-036 | INFO | Epoch 124/1999	 learning rate: 0.0001
+2024-05-30 15:22:19,900| Thread-036 | INFO | ----------
+2024-05-30 15:22:23,815| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:22:24,731| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:22:24,733| Thread-036 | INFO | epoch time taken: 4.833143133902922
+2024-05-30 15:22:24,733| Thread-036 | INFO | 
+2024-05-30 15:22:24,733| Thread-036 | INFO | Epoch 125/1999	 learning rate: 0.0001
+2024-05-30 15:22:24,733| Thread-036 | INFO | ----------
+2024-05-30 15:22:28,733| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:22:29,407| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:22:29,410| Thread-036 | INFO | epoch time taken: 4.676779806846753
+2024-05-30 15:22:29,410| Thread-036 | INFO | 
+2024-05-30 15:22:29,410| Thread-036 | INFO | Epoch 126/1999	 learning rate: 0.0001
+2024-05-30 15:22:29,411| Thread-036 | INFO | ----------
+2024-05-30 15:22:33,170| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:22:33,881| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:22:33,916| Thread-036 | INFO | epoch time taken: 4.505500892875716
+2024-05-30 15:22:33,916| Thread-036 | INFO | 
+2024-05-30 15:22:33,916| Thread-036 | INFO | Epoch 127/1999	 learning rate: 0.0001
+2024-05-30 15:22:33,917| Thread-036 | INFO | ----------
+2024-05-30 15:22:37,769| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:22:38,491| Thread-036 | INFO | valid Loss: 0.0094
+2024-05-30 15:22:38,494| Thread-036 | INFO | epoch time taken: 4.577133605023846
+2024-05-30 15:22:38,494| Thread-036 | INFO | 
+2024-05-30 15:22:38,494| Thread-036 | INFO | Epoch 128/1999	 learning rate: 0.0001
+2024-05-30 15:22:38,494| Thread-036 | INFO | ----------
+2024-05-30 15:22:42,264| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:22:42,907| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:22:42,964| Thread-036 | INFO | epoch time taken: 4.470006487099454
+2024-05-30 15:22:42,964| Thread-036 | INFO | 
+2024-05-30 15:22:42,964| Thread-036 | INFO | Epoch 129/1999	 learning rate: 0.0001
+2024-05-30 15:22:42,964| Thread-036 | INFO | ----------
+2024-05-30 15:22:46,699| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:22:47,365| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:22:47,368| Thread-036 | INFO | epoch time taken: 4.403510598000139
+2024-05-30 15:22:47,368| Thread-036 | INFO | 
+2024-05-30 15:22:47,368| Thread-036 | INFO | Epoch 130/1999	 learning rate: 0.0001
+2024-05-30 15:22:47,368| Thread-036 | INFO | ----------
+2024-05-30 15:22:51,274| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:22:51,929| Thread-036 | INFO | valid Loss: 0.0068
+2024-05-30 15:22:51,931| Thread-036 | INFO | epoch time taken: 4.563245421042666
+2024-05-30 15:22:51,931| Thread-036 | INFO | 
+2024-05-30 15:22:51,931| Thread-036 | INFO | Epoch 131/1999	 learning rate: 0.0001
+2024-05-30 15:22:51,931| Thread-036 | INFO | ----------
+2024-05-30 15:22:55,718| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:22:56,296| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:22:56,304| Thread-036 | INFO | epoch time taken: 4.372443638974801
+2024-05-30 15:22:56,304| Thread-036 | INFO | 
+2024-05-30 15:22:56,304| Thread-036 | INFO | Epoch 132/1999	 learning rate: 0.0001
+2024-05-30 15:22:56,304| Thread-036 | INFO | ----------
+2024-05-30 15:22:59,955| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:23:00,607| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:23:00,609| Thread-036 | INFO | epoch time taken: 4.305437900824472
+2024-05-30 15:23:00,609| Thread-036 | INFO | 
+2024-05-30 15:23:00,610| Thread-036 | INFO | Epoch 133/1999	 learning rate: 0.0001
+2024-05-30 15:23:00,610| Thread-036 | INFO | ----------
+2024-05-30 15:23:04,387| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:23:05,012| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:23:05,015| Thread-036 | INFO | epoch time taken: 4.40537288505584
+2024-05-30 15:23:05,015| Thread-036 | INFO | 
+2024-05-30 15:23:05,015| Thread-036 | INFO | Epoch 134/1999	 learning rate: 0.0001
+2024-05-30 15:23:05,015| Thread-036 | INFO | ----------
+2024-05-30 15:23:08,785| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:23:09,417| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:23:09,421| Thread-036 | INFO | epoch time taken: 4.405540334992111
+2024-05-30 15:23:09,421| Thread-036 | INFO | 
+2024-05-30 15:23:09,421| Thread-036 | INFO | Epoch 135/1999	 learning rate: 0.0001
+2024-05-30 15:23:09,421| Thread-036 | INFO | ----------
+2024-05-30 15:23:13,184| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:23:13,828| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:23:13,832| Thread-036 | INFO | epoch time taken: 4.410804759943858
+2024-05-30 15:23:13,832| Thread-036 | INFO | 
+2024-05-30 15:23:13,832| Thread-036 | INFO | Epoch 136/1999	 learning rate: 0.0001
+2024-05-30 15:23:13,832| Thread-036 | INFO | ----------
+2024-05-30 15:23:17,662| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:23:18,496| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:23:18,498| Thread-036 | INFO | epoch time taken: 4.666098690126091
+2024-05-30 15:23:18,498| Thread-036 | INFO | 
+2024-05-30 15:23:18,498| Thread-036 | INFO | Epoch 137/1999	 learning rate: 0.0001
+2024-05-30 15:23:18,498| Thread-036 | INFO | ----------
+2024-05-30 15:23:22,425| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:23:23,063| Thread-036 | INFO | valid Loss: 0.0089
+2024-05-30 15:23:23,065| Thread-036 | INFO | epoch time taken: 4.566594735020772
+2024-05-30 15:23:23,065| Thread-036 | INFO | 
+2024-05-30 15:23:23,065| Thread-036 | INFO | Epoch 138/1999	 learning rate: 0.0001
+2024-05-30 15:23:23,065| Thread-036 | INFO | ----------
+2024-05-30 15:23:26,732| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:23:27,408| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:23:27,411| Thread-036 | INFO | epoch time taken: 4.345630521886051
+2024-05-30 15:23:27,411| Thread-036 | INFO | 
+2024-05-30 15:23:27,411| Thread-036 | INFO | Epoch 139/1999	 learning rate: 0.0001
+2024-05-30 15:23:27,411| Thread-036 | INFO | ----------
+2024-05-30 15:23:31,212| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:23:32,048| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:23:32,056| Thread-036 | INFO | epoch time taken: 4.644840840948746
+2024-05-30 15:23:32,056| Thread-036 | INFO | 
+2024-05-30 15:23:32,056| Thread-036 | INFO | Epoch 140/1999	 learning rate: 0.0001
+2024-05-30 15:23:32,056| Thread-036 | INFO | ----------
+2024-05-30 15:23:36,123| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:23:37,126| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:23:37,129| Thread-036 | INFO | epoch time taken: 5.0729291250463575
+2024-05-30 15:23:37,129| Thread-036 | INFO | 
+2024-05-30 15:23:37,129| Thread-036 | INFO | Epoch 141/1999	 learning rate: 0.0001
+2024-05-30 15:23:37,129| Thread-036 | INFO | ----------
+2024-05-30 15:23:40,891| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:23:41,521| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:23:41,523| Thread-036 | INFO | epoch time taken: 4.394308603834361
+2024-05-30 15:23:41,524| Thread-036 | INFO | 
+2024-05-30 15:23:41,524| Thread-036 | INFO | Epoch 142/1999	 learning rate: 0.0001
+2024-05-30 15:23:41,524| Thread-036 | INFO | ----------
+2024-05-30 15:23:45,284| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:23:45,907| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:23:45,909| Thread-036 | INFO | epoch time taken: 4.385161483194679
+2024-05-30 15:23:45,909| Thread-036 | INFO | 
+2024-05-30 15:23:45,909| Thread-036 | INFO | Epoch 143/1999	 learning rate: 0.0001
+2024-05-30 15:23:45,909| Thread-036 | INFO | ----------
+2024-05-30 15:23:49,634| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:23:50,283| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:23:50,285| Thread-036 | INFO | epoch time taken: 4.376315953908488
+2024-05-30 15:23:50,285| Thread-036 | INFO | 
+2024-05-30 15:23:50,285| Thread-036 | INFO | Epoch 144/1999	 learning rate: 0.0001
+2024-05-30 15:23:50,286| Thread-036 | INFO | ----------
+2024-05-30 15:23:54,229| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:23:55,078| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:23:55,081| Thread-036 | INFO | epoch time taken: 4.795459284912795
+2024-05-30 15:23:55,081| Thread-036 | INFO | 
+2024-05-30 15:23:55,081| Thread-036 | INFO | Epoch 145/1999	 learning rate: 0.0001
+2024-05-30 15:23:55,081| Thread-036 | INFO | ----------
+2024-05-30 15:23:59,114| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:23:59,879| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:23:59,882| Thread-036 | INFO | epoch time taken: 4.80043990816921
+2024-05-30 15:23:59,882| Thread-036 | INFO | 
+2024-05-30 15:23:59,882| Thread-036 | INFO | Epoch 146/1999	 learning rate: 0.0001
+2024-05-30 15:23:59,882| Thread-036 | INFO | ----------
+2024-05-30 15:24:03,773| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:24:04,519| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:24:04,570| Thread-036 | INFO | epoch time taken: 4.688734142109752
+2024-05-30 15:24:04,571| Thread-036 | INFO | 
+2024-05-30 15:24:04,571| Thread-036 | INFO | Epoch 147/1999	 learning rate: 0.0001
+2024-05-30 15:24:04,571| Thread-036 | INFO | ----------
+2024-05-30 15:24:08,375| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:09,122| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:24:09,124| Thread-036 | INFO | epoch time taken: 4.5535134598612785
+2024-05-30 15:24:09,124| Thread-036 | INFO | 
+2024-05-30 15:24:09,124| Thread-036 | INFO | Epoch 148/1999	 learning rate: 0.0001
+2024-05-30 15:24:09,125| Thread-036 | INFO | ----------
+2024-05-30 15:24:12,926| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:24:13,590| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:24:13,601| Thread-036 | INFO | epoch time taken: 4.4761246929410845
+2024-05-30 15:24:13,601| Thread-036 | INFO | 
+2024-05-30 15:24:13,601| Thread-036 | INFO | Epoch 149/1999	 learning rate: 0.0001
+2024-05-30 15:24:13,601| Thread-036 | INFO | ----------
+2024-05-30 15:24:17,465| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:18,145| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:24:18,220| Thread-036 | INFO | epoch time taken: 4.619057712843642
+2024-05-30 15:24:18,220| Thread-036 | INFO | 
+2024-05-30 15:24:18,220| Thread-036 | INFO | Epoch 150/1999	 learning rate: 0.0001
+2024-05-30 15:24:18,221| Thread-036 | INFO | ----------
+2024-05-30 15:24:21,985| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:24:22,656| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:24:22,658| Thread-036 | INFO | epoch time taken: 4.437528640031815
+2024-05-30 15:24:22,658| Thread-036 | INFO | 
+2024-05-30 15:24:22,658| Thread-036 | INFO | Epoch 151/1999	 learning rate: 0.0001
+2024-05-30 15:24:22,658| Thread-036 | INFO | ----------
+2024-05-30 15:24:26,466| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:24:27,172| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:24:27,175| Thread-036 | INFO | epoch time taken: 4.516332207946107
+2024-05-30 15:24:27,175| Thread-036 | INFO | 
+2024-05-30 15:24:27,175| Thread-036 | INFO | Epoch 152/1999	 learning rate: 0.0001
+2024-05-30 15:24:27,175| Thread-036 | INFO | ----------
+2024-05-30 15:24:30,982| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:24:31,615| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:24:31,617| Thread-036 | INFO | epoch time taken: 4.442307766061276
+2024-05-30 15:24:31,617| Thread-036 | INFO | 
+2024-05-30 15:24:31,617| Thread-036 | INFO | Epoch 153/1999	 learning rate: 0.0001
+2024-05-30 15:24:31,617| Thread-036 | INFO | ----------
+2024-05-30 15:24:35,314| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:35,960| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:24:35,965| Thread-036 | INFO | epoch time taken: 4.348069651983678
+2024-05-30 15:24:35,965| Thread-036 | INFO | 
+2024-05-30 15:24:35,965| Thread-036 | INFO | Epoch 154/1999	 learning rate: 0.0001
+2024-05-30 15:24:35,965| Thread-036 | INFO | ----------
+2024-05-30 15:24:39,649| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:24:40,298| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:24:40,300| Thread-036 | INFO | epoch time taken: 4.334563527954742
+2024-05-30 15:24:40,300| Thread-036 | INFO | 
+2024-05-30 15:24:40,300| Thread-036 | INFO | Epoch 155/1999	 learning rate: 0.0001
+2024-05-30 15:24:40,300| Thread-036 | INFO | ----------
+2024-05-30 15:24:44,107| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:44,713| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:24:44,715| Thread-036 | INFO | epoch time taken: 4.414644567994401
+2024-05-30 15:24:44,715| Thread-036 | INFO | 
+2024-05-30 15:24:44,715| Thread-036 | INFO | Epoch 156/1999	 learning rate: 0.0001
+2024-05-30 15:24:44,715| Thread-036 | INFO | ----------
+2024-05-30 15:24:48,355| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:49,029| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:24:49,032| Thread-036 | INFO | epoch time taken: 4.31719896197319
+2024-05-30 15:24:49,032| Thread-036 | INFO | 
+2024-05-30 15:24:49,032| Thread-036 | INFO | Epoch 157/1999	 learning rate: 0.0001
+2024-05-30 15:24:49,032| Thread-036 | INFO | ----------
+2024-05-30 15:24:52,842| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:24:53,484| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:24:53,486| Thread-036 | INFO | epoch time taken: 4.45352656301111
+2024-05-30 15:24:53,486| Thread-036 | INFO | 
+2024-05-30 15:24:53,486| Thread-036 | INFO | Epoch 158/1999	 learning rate: 0.0001
+2024-05-30 15:24:53,486| Thread-036 | INFO | ----------
+2024-05-30 15:24:57,214| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:24:58,116| Thread-036 | INFO | valid Loss: 0.0091
+2024-05-30 15:24:58,121| Thread-036 | INFO | epoch time taken: 4.634881142061204
+2024-05-30 15:24:58,121| Thread-036 | INFO | 
+2024-05-30 15:24:58,121| Thread-036 | INFO | Epoch 159/1999	 learning rate: 0.0001
+2024-05-30 15:24:58,121| Thread-036 | INFO | ----------
+2024-05-30 15:25:02,024| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:25:02,865| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:25:03,004| Thread-036 | INFO | epoch time taken: 4.882595561910421
+2024-05-30 15:25:03,004| Thread-036 | INFO | 
+2024-05-30 15:25:03,004| Thread-036 | INFO | Epoch 160/1999	 learning rate: 0.0001
+2024-05-30 15:25:03,004| Thread-036 | INFO | ----------
+2024-05-30 15:25:07,060| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:25:07,758| Thread-036 | INFO | valid Loss: 0.0066
+2024-05-30 15:25:07,761| Thread-036 | INFO | epoch time taken: 4.756607413990423
+2024-05-30 15:25:07,761| Thread-036 | INFO | 
+2024-05-30 15:25:07,761| Thread-036 | INFO | Epoch 161/1999	 learning rate: 0.0001
+2024-05-30 15:25:07,761| Thread-036 | INFO | ----------
+2024-05-30 15:25:11,674| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:25:12,397| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:25:12,412| Thread-036 | INFO | epoch time taken: 4.650832888903096
+2024-05-30 15:25:12,412| Thread-036 | INFO | 
+2024-05-30 15:25:12,412| Thread-036 | INFO | Epoch 162/1999	 learning rate: 0.0001
+2024-05-30 15:25:12,412| Thread-036 | INFO | ----------
+2024-05-30 15:25:16,288| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:25:16,971| Thread-036 | INFO | valid Loss: 0.0069
+2024-05-30 15:25:17,005| Thread-036 | INFO | epoch time taken: 4.593411046778783
+2024-05-30 15:25:17,005| Thread-036 | INFO | 
+2024-05-30 15:25:17,005| Thread-036 | INFO | Epoch 163/1999	 learning rate: 0.0001
+2024-05-30 15:25:17,006| Thread-036 | INFO | ----------
+2024-05-30 15:25:20,726| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:25:21,377| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:25:21,380| Thread-036 | INFO | epoch time taken: 4.374428182141855
+2024-05-30 15:25:21,380| Thread-036 | INFO | 
+2024-05-30 15:25:21,380| Thread-036 | INFO | Epoch 164/1999	 learning rate: 0.0001
+2024-05-30 15:25:21,380| Thread-036 | INFO | ----------
+2024-05-30 15:25:25,150| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:25:25,942| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:25:25,944| Thread-036 | INFO | epoch time taken: 4.564160767942667
+2024-05-30 15:25:25,944| Thread-036 | INFO | 
+2024-05-30 15:25:25,944| Thread-036 | INFO | Epoch 165/1999	 learning rate: 0.0001
+2024-05-30 15:25:25,944| Thread-036 | INFO | ----------
+2024-05-30 15:25:29,730| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:25:30,350| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:25:30,353| Thread-036 | INFO | epoch time taken: 4.408755930839106
+2024-05-30 15:25:30,353| Thread-036 | INFO | 
+2024-05-30 15:25:30,353| Thread-036 | INFO | Epoch 166/1999	 learning rate: 0.0001
+2024-05-30 15:25:30,353| Thread-036 | INFO | ----------
+2024-05-30 15:25:34,063| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:25:34,801| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:25:34,803| Thread-036 | INFO | epoch time taken: 4.449671626091003
+2024-05-30 15:25:34,803| Thread-036 | INFO | 
+2024-05-30 15:25:34,803| Thread-036 | INFO | Epoch 167/1999	 learning rate: 0.0001
+2024-05-30 15:25:34,803| Thread-036 | INFO | ----------
+2024-05-30 15:25:38,540| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:25:39,200| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:25:39,207| Thread-036 | INFO | epoch time taken: 4.404126790119335
+2024-05-30 15:25:39,207| Thread-036 | INFO | 
+2024-05-30 15:25:39,207| Thread-036 | INFO | Epoch 168/1999	 learning rate: 0.0001
+2024-05-30 15:25:39,208| Thread-036 | INFO | ----------
+2024-05-30 15:25:43,025| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:25:43,732| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:25:43,735| Thread-036 | INFO | epoch time taken: 4.527132892981172
+2024-05-30 15:25:43,735| Thread-036 | INFO | 
+2024-05-30 15:25:43,735| Thread-036 | INFO | Epoch 169/1999	 learning rate: 0.0001
+2024-05-30 15:25:43,735| Thread-036 | INFO | ----------
+2024-05-30 15:25:47,579| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:25:48,311| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:25:48,314| Thread-036 | INFO | epoch time taken: 4.579296620097011
+2024-05-30 15:25:48,314| Thread-036 | INFO | 
+2024-05-30 15:25:48,314| Thread-036 | INFO | Epoch 170/1999	 learning rate: 0.0001
+2024-05-30 15:25:48,314| Thread-036 | INFO | ----------
+2024-05-30 15:25:52,111| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:25:52,751| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:25:52,760| Thread-036 | INFO | epoch time taken: 4.445478008827195
+2024-05-30 15:25:52,760| Thread-036 | INFO | 
+2024-05-30 15:25:52,760| Thread-036 | INFO | Epoch 171/1999	 learning rate: 0.0001
+2024-05-30 15:25:52,760| Thread-036 | INFO | ----------
+2024-05-30 15:25:56,471| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:25:57,100| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:25:57,102| Thread-036 | INFO | epoch time taken: 4.342404641909525
+2024-05-30 15:25:57,103| Thread-036 | INFO | 
+2024-05-30 15:25:57,103| Thread-036 | INFO | Epoch 172/1999	 learning rate: 0.0001
+2024-05-30 15:25:57,103| Thread-036 | INFO | ----------
+2024-05-30 15:26:00,958| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:26:01,861| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:26:01,863| Thread-036 | INFO | epoch time taken: 4.760441418970004
+2024-05-30 15:26:01,863| Thread-036 | INFO | 
+2024-05-30 15:26:01,863| Thread-036 | INFO | Epoch 173/1999	 learning rate: 0.0001
+2024-05-30 15:26:01,864| Thread-036 | INFO | ----------
+2024-05-30 15:26:05,786| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:26:06,381| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:26:06,384| Thread-036 | INFO | epoch time taken: 4.520613044966012
+2024-05-30 15:26:06,384| Thread-036 | INFO | 
+2024-05-30 15:26:06,384| Thread-036 | INFO | Epoch 174/1999	 learning rate: 0.0001
+2024-05-30 15:26:06,384| Thread-036 | INFO | ----------
+2024-05-30 15:26:10,120| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:26:10,761| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:26:10,780| Thread-036 | INFO | epoch time taken: 4.395673874067143
+2024-05-30 15:26:10,780| Thread-036 | INFO | 
+2024-05-30 15:26:10,780| Thread-036 | INFO | Epoch 175/1999	 learning rate: 0.0001
+2024-05-30 15:26:10,780| Thread-036 | INFO | ----------
+2024-05-30 15:26:14,660| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:26:15,454| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:26:15,456| Thread-036 | INFO | epoch time taken: 4.675868303980678
+2024-05-30 15:26:15,456| Thread-036 | INFO | 
+2024-05-30 15:26:15,456| Thread-036 | INFO | Epoch 176/1999	 learning rate: 0.0001
+2024-05-30 15:26:15,456| Thread-036 | INFO | ----------
+2024-05-30 15:26:19,369| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:26:20,167| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:26:20,176| Thread-036 | INFO | epoch time taken: 4.719767841976136
+2024-05-30 15:26:20,176| Thread-036 | INFO | 
+2024-05-30 15:26:20,176| Thread-036 | INFO | Epoch 177/1999	 learning rate: 0.0001
+2024-05-30 15:26:20,176| Thread-036 | INFO | ----------
+2024-05-30 15:26:24,176| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:26:24,863| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:26:24,904| Thread-036 | INFO | epoch time taken: 4.727317560929805
+2024-05-30 15:26:24,904| Thread-036 | INFO | 
+2024-05-30 15:26:24,904| Thread-036 | INFO | Epoch 178/1999	 learning rate: 0.0001
+2024-05-30 15:26:24,904| Thread-036 | INFO | ----------
+2024-05-30 15:26:28,599| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:26:29,240| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:26:29,242| Thread-036 | INFO | epoch time taken: 4.338455352000892
+2024-05-30 15:26:29,242| Thread-036 | INFO | 
+2024-05-30 15:26:29,243| Thread-036 | INFO | Epoch 179/1999	 learning rate: 0.0001
+2024-05-30 15:26:29,243| Thread-036 | INFO | ----------
+2024-05-30 15:26:33,035| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:26:33,695| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:26:33,697| Thread-036 | INFO | epoch time taken: 4.4544127068948
+2024-05-30 15:26:33,697| Thread-036 | INFO | 
+2024-05-30 15:26:33,697| Thread-036 | INFO | Epoch 180/1999	 learning rate: 0.0001
+2024-05-30 15:26:33,697| Thread-036 | INFO | ----------
+2024-05-30 15:26:37,312| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:26:37,944| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:26:38,216| Thread-036 | INFO | epoch time taken: 4.5187894171103835
+2024-05-30 15:26:38,216| Thread-036 | INFO | 
+2024-05-30 15:26:38,216| Thread-036 | INFO | Epoch 181/1999	 learning rate: 0.0001
+2024-05-30 15:26:38,216| Thread-036 | INFO | ----------
+2024-05-30 15:26:42,035| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:26:42,728| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:26:42,731| Thread-036 | INFO | epoch time taken: 4.514565296005458
+2024-05-30 15:26:42,731| Thread-036 | INFO | 
+2024-05-30 15:26:42,731| Thread-036 | INFO | Epoch 182/1999	 learning rate: 0.0001
+2024-05-30 15:26:42,731| Thread-036 | INFO | ----------
+2024-05-30 15:26:46,509| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:26:47,198| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:26:47,200| Thread-036 | INFO | epoch time taken: 4.469118299894035
+2024-05-30 15:26:47,200| Thread-036 | INFO | 
+2024-05-30 15:26:47,201| Thread-036 | INFO | Epoch 183/1999	 learning rate: 0.0001
+2024-05-30 15:26:47,201| Thread-036 | INFO | ----------
+2024-05-30 15:26:50,998| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:26:52,001| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:26:52,312| Thread-036 | INFO | epoch time taken: 5.111211674986407
+2024-05-30 15:26:52,312| Thread-036 | INFO | 
+2024-05-30 15:26:52,312| Thread-036 | INFO | Epoch 184/1999	 learning rate: 0.0001
+2024-05-30 15:26:52,312| Thread-036 | INFO | ----------
+2024-05-30 15:26:56,222| Thread-036 | INFO | train Loss: 0.0060
+2024-05-30 15:26:56,927| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:26:57,012| Thread-036 | INFO | epoch time taken: 4.700022266013548
+2024-05-30 15:26:57,012| Thread-036 | INFO | 
+2024-05-30 15:26:57,012| Thread-036 | INFO | Epoch 185/1999	 learning rate: 0.0001
+2024-05-30 15:26:57,013| Thread-036 | INFO | ----------
+2024-05-30 15:27:00,974| Thread-036 | INFO | train Loss: 0.0059
+2024-05-30 15:27:01,849| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:27:01,852| Thread-036 | INFO | epoch time taken: 4.839598132995889
+2024-05-30 15:27:01,852| Thread-036 | INFO | 
+2024-05-30 15:27:01,852| Thread-036 | INFO | Epoch 186/1999	 learning rate: 0.0001
+2024-05-30 15:27:01,852| Thread-036 | INFO | ----------
+2024-05-30 15:27:05,915| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:27:06,675| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:27:06,677| Thread-036 | INFO | epoch time taken: 4.8248069391120225
+2024-05-30 15:27:06,677| Thread-036 | INFO | 
+2024-05-30 15:27:06,677| Thread-036 | INFO | Epoch 187/1999	 learning rate: 0.0001
+2024-05-30 15:27:06,677| Thread-036 | INFO | ----------
+2024-05-30 15:27:10,563| Thread-036 | INFO | train Loss: 0.0058
+2024-05-30 15:27:11,431| Thread-036 | INFO | valid Loss: 0.0102
+2024-05-30 15:27:11,433| Thread-036 | INFO | epoch time taken: 4.756157020106912
+2024-05-30 15:27:11,433| Thread-036 | INFO | 
+2024-05-30 15:27:11,434| Thread-036 | INFO | Epoch 188/1999	 learning rate: 0.0001
+2024-05-30 15:27:11,434| Thread-036 | INFO | ----------
+2024-05-30 15:27:15,453| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:27:16,363| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:27:16,365| Thread-036 | INFO | epoch time taken: 4.931813114089891
+2024-05-30 15:27:16,365| Thread-036 | INFO | 
+2024-05-30 15:27:16,365| Thread-036 | INFO | Epoch 189/1999	 learning rate: 0.0001
+2024-05-30 15:27:16,366| Thread-036 | INFO | ----------
+2024-05-30 15:27:20,124| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:27:20,814| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:27:20,816| Thread-036 | INFO | epoch time taken: 4.4501142259687185
+2024-05-30 15:27:20,816| Thread-036 | INFO | 
+2024-05-30 15:27:20,816| Thread-036 | INFO | Epoch 190/1999	 learning rate: 0.0001
+2024-05-30 15:27:20,816| Thread-036 | INFO | ----------
+2024-05-30 15:27:24,542| Thread-036 | INFO | train Loss: 0.0057
+2024-05-30 15:27:25,196| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:27:25,199| Thread-036 | INFO | epoch time taken: 4.3836951409466565
+2024-05-30 15:27:25,200| Thread-036 | INFO | 
+2024-05-30 15:27:25,200| Thread-036 | INFO | Epoch 191/1999	 learning rate: 0.0001
+2024-05-30 15:27:25,200| Thread-036 | INFO | ----------
+2024-05-30 15:27:29,009| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:27:29,641| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:27:29,689| Thread-036 | INFO | epoch time taken: 4.489253452979028
+2024-05-30 15:27:29,689| Thread-036 | INFO | 
+2024-05-30 15:27:29,689| Thread-036 | INFO | Epoch 192/1999	 learning rate: 0.0001
+2024-05-30 15:27:29,689| Thread-036 | INFO | ----------
+2024-05-30 15:27:33,360| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:27:34,042| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:27:34,044| Thread-036 | INFO | epoch time taken: 4.355140848085284
+2024-05-30 15:27:34,044| Thread-036 | INFO | 
+2024-05-30 15:27:34,044| Thread-036 | INFO | Epoch 193/1999	 learning rate: 0.0001
+2024-05-30 15:27:34,045| Thread-036 | INFO | ----------
+2024-05-30 15:27:37,799| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:27:38,711| Thread-036 | INFO | valid Loss: 0.0068
+2024-05-30 15:27:38,713| Thread-036 | INFO | epoch time taken: 4.669000634923577
+2024-05-30 15:27:38,714| Thread-036 | INFO | 
+2024-05-30 15:27:38,714| Thread-036 | INFO | Epoch 194/1999	 learning rate: 0.0001
+2024-05-30 15:27:38,714| Thread-036 | INFO | ----------
+2024-05-30 15:27:42,642| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:27:43,545| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:27:43,551| Thread-036 | INFO | epoch time taken: 4.837010049959645
+2024-05-30 15:27:43,551| Thread-036 | INFO | 
+2024-05-30 15:27:43,551| Thread-036 | INFO | Epoch 195/1999	 learning rate: 0.0001
+2024-05-30 15:27:43,551| Thread-036 | INFO | ----------
+2024-05-30 15:27:47,404| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:27:48,200| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:27:48,202| Thread-036 | INFO | epoch time taken: 4.6515941421967
+2024-05-30 15:27:48,202| Thread-036 | INFO | 
+2024-05-30 15:27:48,203| Thread-036 | INFO | Epoch 196/1999	 learning rate: 0.0001
+2024-05-30 15:27:48,203| Thread-036 | INFO | ----------
+2024-05-30 15:27:52,005| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:27:52,658| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:27:52,660| Thread-036 | INFO | epoch time taken: 4.457840217044577
+2024-05-30 15:27:52,660| Thread-036 | INFO | 
+2024-05-30 15:27:52,661| Thread-036 | INFO | Epoch 197/1999	 learning rate: 0.0001
+2024-05-30 15:27:52,661| Thread-036 | INFO | ----------
+2024-05-30 15:27:56,565| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:27:57,201| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:27:57,204| Thread-036 | INFO | epoch time taken: 4.542706136824563
+2024-05-30 15:27:57,204| Thread-036 | INFO | 
+2024-05-30 15:27:57,204| Thread-036 | INFO | Epoch 198/1999	 learning rate: 0.0001
+2024-05-30 15:27:57,204| Thread-036 | INFO | ----------
+2024-05-30 15:28:01,115| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:28:01,953| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:28:01,955| Thread-036 | INFO | epoch time taken: 4.750904713990167
+2024-05-30 15:28:01,955| Thread-036 | INFO | 
+2024-05-30 15:28:01,955| Thread-036 | INFO | Epoch 199/1999	 learning rate: 0.0001
+2024-05-30 15:28:01,955| Thread-036 | INFO | ----------
+2024-05-30 15:28:06,002| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:28:06,746| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:28:06,749| Thread-036 | INFO | epoch time taken: 4.7939493709709495
+2024-05-30 15:28:06,749| Thread-036 | INFO | 
+2024-05-30 15:28:06,749| Thread-036 | INFO | Epoch 200/1999	 learning rate: 0.0001
+2024-05-30 15:28:06,749| Thread-036 | INFO | ----------
+2024-05-30 15:28:10,599| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:28:11,258| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:28:11,261| Thread-036 | INFO | epoch time taken: 4.511755706043914
+2024-05-30 15:28:11,261| Thread-036 | INFO | 
+2024-05-30 15:28:11,261| Thread-036 | INFO | Epoch 201/1999	 learning rate: 0.0001
+2024-05-30 15:28:11,261| Thread-036 | INFO | ----------
+2024-05-30 15:28:15,134| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:28:15,917| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:28:15,919| Thread-036 | INFO | epoch time taken: 4.657893948024139
+2024-05-30 15:28:15,919| Thread-036 | INFO | 
+2024-05-30 15:28:15,919| Thread-036 | INFO | Epoch 202/1999	 learning rate: 0.0001
+2024-05-30 15:28:15,919| Thread-036 | INFO | ----------
+2024-05-30 15:28:19,627| Thread-036 | INFO | train Loss: 0.0056
+2024-05-30 15:28:20,285| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:28:20,288| Thread-036 | INFO | epoch time taken: 4.36910741799511
+2024-05-30 15:28:20,288| Thread-036 | INFO | 
+2024-05-30 15:28:20,288| Thread-036 | INFO | Epoch 203/1999	 learning rate: 0.0001
+2024-05-30 15:28:20,288| Thread-036 | INFO | ----------
+2024-05-30 15:28:24,021| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:28:24,703| Thread-036 | INFO | valid Loss: 0.0067
+2024-05-30 15:28:24,705| Thread-036 | INFO | epoch time taken: 4.416534029878676
+2024-05-30 15:28:24,705| Thread-036 | INFO | 
+2024-05-30 15:28:24,705| Thread-036 | INFO | Epoch 204/1999	 learning rate: 0.0001
+2024-05-30 15:28:24,705| Thread-036 | INFO | ----------
+2024-05-30 15:28:28,540| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:28:29,209| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:28:29,212| Thread-036 | INFO | epoch time taken: 4.507242455845699
+2024-05-30 15:28:29,212| Thread-036 | INFO | 
+2024-05-30 15:28:29,213| Thread-036 | INFO | Epoch 205/1999	 learning rate: 0.0001
+2024-05-30 15:28:29,213| Thread-036 | INFO | ----------
+2024-05-30 15:28:33,109| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:28:33,758| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:28:33,761| Thread-036 | INFO | epoch time taken: 4.547924601007253
+2024-05-30 15:28:33,761| Thread-036 | INFO | 
+2024-05-30 15:28:33,761| Thread-036 | INFO | Epoch 206/1999	 learning rate: 0.0001
+2024-05-30 15:28:33,761| Thread-036 | INFO | ----------
+2024-05-30 15:28:37,545| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:28:38,256| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:28:38,259| Thread-036 | INFO | epoch time taken: 4.497974334051833
+2024-05-30 15:28:38,259| Thread-036 | INFO | 
+2024-05-30 15:28:38,259| Thread-036 | INFO | Epoch 207/1999	 learning rate: 0.0001
+2024-05-30 15:28:38,259| Thread-036 | INFO | ----------
+2024-05-30 15:28:42,008| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:28:42,651| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:28:42,653| Thread-036 | INFO | epoch time taken: 4.394235553918406
+2024-05-30 15:28:42,653| Thread-036 | INFO | 
+2024-05-30 15:28:42,653| Thread-036 | INFO | Epoch 208/1999	 learning rate: 0.0001
+2024-05-30 15:28:42,653| Thread-036 | INFO | ----------
+2024-05-30 15:28:46,547| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:28:47,179| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:28:47,192| Thread-036 | INFO | epoch time taken: 4.538351853145286
+2024-05-30 15:28:47,192| Thread-036 | INFO | 
+2024-05-30 15:28:47,192| Thread-036 | INFO | Epoch 209/1999	 learning rate: 0.0001
+2024-05-30 15:28:47,192| Thread-036 | INFO | ----------
+2024-05-30 15:28:50,915| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:28:51,580| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:28:51,582| Thread-036 | INFO | epoch time taken: 4.390396957984194
+2024-05-30 15:28:51,583| Thread-036 | INFO | 
+2024-05-30 15:28:51,583| Thread-036 | INFO | Epoch 210/1999	 learning rate: 0.0001
+2024-05-30 15:28:51,583| Thread-036 | INFO | ----------
+2024-05-30 15:28:55,360| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:28:56,029| Thread-036 | INFO | valid Loss: 0.0068
+2024-05-30 15:28:56,031| Thread-036 | INFO | epoch time taken: 4.448868931969628
+2024-05-30 15:28:56,032| Thread-036 | INFO | 
+2024-05-30 15:28:56,032| Thread-036 | INFO | Epoch 211/1999	 learning rate: 0.0001
+2024-05-30 15:28:56,032| Thread-036 | INFO | ----------
+2024-05-30 15:28:59,774| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:29:00,422| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:29:00,424| Thread-036 | INFO | epoch time taken: 4.392489649122581
+2024-05-30 15:29:00,424| Thread-036 | INFO | 
+2024-05-30 15:29:00,424| Thread-036 | INFO | Epoch 212/1999	 learning rate: 0.0001
+2024-05-30 15:29:00,424| Thread-036 | INFO | ----------
+2024-05-30 15:29:04,137| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:04,809| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:29:04,812| Thread-036 | INFO | epoch time taken: 4.387713629053906
+2024-05-30 15:29:04,812| Thread-036 | INFO | 
+2024-05-30 15:29:04,812| Thread-036 | INFO | Epoch 213/1999	 learning rate: 0.0001
+2024-05-30 15:29:04,812| Thread-036 | INFO | ----------
+2024-05-30 15:29:08,566| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:09,174| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:29:09,181| Thread-036 | INFO | epoch time taken: 4.368507314007729
+2024-05-30 15:29:09,181| Thread-036 | INFO | 
+2024-05-30 15:29:09,181| Thread-036 | INFO | Epoch 214/1999	 learning rate: 0.0001
+2024-05-30 15:29:09,181| Thread-036 | INFO | ----------
+2024-05-30 15:29:12,983| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:13,668| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:29:13,670| Thread-036 | INFO | epoch time taken: 4.48913985886611
+2024-05-30 15:29:13,670| Thread-036 | INFO | 
+2024-05-30 15:29:13,670| Thread-036 | INFO | Epoch 215/1999	 learning rate: 0.0001
+2024-05-30 15:29:13,670| Thread-036 | INFO | ----------
+2024-05-30 15:29:17,530| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:29:18,200| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:29:18,203| Thread-036 | INFO | epoch time taken: 4.532281398074701
+2024-05-30 15:29:18,203| Thread-036 | INFO | 
+2024-05-30 15:29:18,203| Thread-036 | INFO | Epoch 216/1999	 learning rate: 0.0001
+2024-05-30 15:29:18,203| Thread-036 | INFO | ----------
+2024-05-30 15:29:21,971| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:22,628| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:29:22,631| Thread-036 | INFO | epoch time taken: 4.427863237913698
+2024-05-30 15:29:22,631| Thread-036 | INFO | 
+2024-05-30 15:29:22,631| Thread-036 | INFO | Epoch 217/1999	 learning rate: 0.0001
+2024-05-30 15:29:22,631| Thread-036 | INFO | ----------
+2024-05-30 15:29:26,540| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:27,340| Thread-036 | INFO | valid Loss: 0.0093
+2024-05-30 15:29:27,342| Thread-036 | INFO | epoch time taken: 4.711059144930914
+2024-05-30 15:29:27,342| Thread-036 | INFO | 
+2024-05-30 15:29:27,342| Thread-036 | INFO | Epoch 218/1999	 learning rate: 0.0001
+2024-05-30 15:29:27,342| Thread-036 | INFO | ----------
+2024-05-30 15:29:31,184| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:29:31,854| Thread-036 | INFO | valid Loss: 0.0093
+2024-05-30 15:29:31,856| Thread-036 | INFO | epoch time taken: 4.514169863192365
+2024-05-30 15:29:31,857| Thread-036 | INFO | 
+2024-05-30 15:29:31,857| Thread-036 | INFO | Epoch 219/1999	 learning rate: 0.0001
+2024-05-30 15:29:31,857| Thread-036 | INFO | ----------
+2024-05-30 15:29:35,769| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:29:36,587| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:29:36,589| Thread-036 | INFO | epoch time taken: 4.732255105162039
+2024-05-30 15:29:36,589| Thread-036 | INFO | 
+2024-05-30 15:29:36,589| Thread-036 | INFO | Epoch 220/1999	 learning rate: 0.0001
+2024-05-30 15:29:36,589| Thread-036 | INFO | ----------
+2024-05-30 15:29:40,649| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:29:41,440| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:29:41,443| Thread-036 | INFO | epoch time taken: 4.853705649031326
+2024-05-30 15:29:41,443| Thread-036 | INFO | 
+2024-05-30 15:29:41,443| Thread-036 | INFO | Epoch 221/1999	 learning rate: 0.0001
+2024-05-30 15:29:41,443| Thread-036 | INFO | ----------
+2024-05-30 15:29:45,357| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:29:46,040| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:29:46,043| Thread-036 | INFO | epoch time taken: 4.599786681123078
+2024-05-30 15:29:46,043| Thread-036 | INFO | 
+2024-05-30 15:29:46,043| Thread-036 | INFO | Epoch 222/1999	 learning rate: 0.0001
+2024-05-30 15:29:46,043| Thread-036 | INFO | ----------
+2024-05-30 15:29:49,901| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:29:50,749| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:29:50,752| Thread-036 | INFO | epoch time taken: 4.708935223985463
+2024-05-30 15:29:50,752| Thread-036 | INFO | 
+2024-05-30 15:29:50,752| Thread-036 | INFO | Epoch 223/1999	 learning rate: 0.0001
+2024-05-30 15:29:50,752| Thread-036 | INFO | ----------
+2024-05-30 15:29:54,728| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:29:55,437| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:29:55,440| Thread-036 | INFO | epoch time taken: 4.687525946879759
+2024-05-30 15:29:55,440| Thread-036 | INFO | 
+2024-05-30 15:29:55,440| Thread-036 | INFO | Epoch 224/1999	 learning rate: 0.0001
+2024-05-30 15:29:55,440| Thread-036 | INFO | ----------
+2024-05-30 15:29:59,288| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:29:59,910| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:29:59,913| Thread-036 | INFO | epoch time taken: 4.473062559962273
+2024-05-30 15:29:59,913| Thread-036 | INFO | 
+2024-05-30 15:29:59,913| Thread-036 | INFO | Epoch 225/1999	 learning rate: 0.0001
+2024-05-30 15:29:59,913| Thread-036 | INFO | ----------
+2024-05-30 15:30:03,593| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:30:04,267| Thread-036 | INFO | valid Loss: 0.0090
+2024-05-30 15:30:04,269| Thread-036 | INFO | epoch time taken: 4.355791968060657
+2024-05-30 15:30:04,269| Thread-036 | INFO | 
+2024-05-30 15:30:04,269| Thread-036 | INFO | Epoch 226/1999	 learning rate: 0.0001
+2024-05-30 15:30:04,269| Thread-036 | INFO | ----------
+2024-05-30 15:30:07,963| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:30:08,579| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:30:08,581| Thread-036 | INFO | epoch time taken: 4.312105840072036
+2024-05-30 15:30:08,581| Thread-036 | INFO | 
+2024-05-30 15:30:08,581| Thread-036 | INFO | Epoch 227/1999	 learning rate: 0.0001
+2024-05-30 15:30:08,581| Thread-036 | INFO | ----------
+2024-05-30 15:30:12,441| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:30:13,299| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:30:13,302| Thread-036 | INFO | epoch time taken: 4.720652549061924
+2024-05-30 15:30:13,302| Thread-036 | INFO | 
+2024-05-30 15:30:13,302| Thread-036 | INFO | Epoch 228/1999	 learning rate: 0.0001
+2024-05-30 15:30:13,302| Thread-036 | INFO | ----------
+2024-05-30 15:30:17,187| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:30:17,870| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:30:17,873| Thread-036 | INFO | epoch time taken: 4.570375444134697
+2024-05-30 15:30:17,873| Thread-036 | INFO | 
+2024-05-30 15:30:17,873| Thread-036 | INFO | Epoch 229/1999	 learning rate: 0.0001
+2024-05-30 15:30:17,873| Thread-036 | INFO | ----------
+2024-05-30 15:30:21,704| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:30:22,504| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:30:22,506| Thread-036 | INFO | epoch time taken: 4.633630132069811
+2024-05-30 15:30:22,506| Thread-036 | INFO | 
+2024-05-30 15:30:22,507| Thread-036 | INFO | Epoch 230/1999	 learning rate: 0.0001
+2024-05-30 15:30:22,507| Thread-036 | INFO | ----------
+2024-05-30 15:30:26,253| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:30:26,814| Thread-036 | INFO | valid Loss: 0.0064
+2024-05-30 15:30:26,817| Thread-036 | INFO | epoch time taken: 4.310357930138707
+2024-05-30 15:30:26,817| Thread-036 | INFO | 
+2024-05-30 15:30:26,817| Thread-036 | INFO | Epoch 231/1999	 learning rate: 0.0001
+2024-05-30 15:30:26,817| Thread-036 | INFO | ----------
+2024-05-30 15:30:30,736| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:30:31,407| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:30:31,410| Thread-036 | INFO | epoch time taken: 4.592431261902675
+2024-05-30 15:30:31,410| Thread-036 | INFO | 
+2024-05-30 15:30:31,410| Thread-036 | INFO | Epoch 232/1999	 learning rate: 0.0001
+2024-05-30 15:30:31,410| Thread-036 | INFO | ----------
+2024-05-30 15:30:35,108| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:30:35,789| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:30:35,797| Thread-036 | INFO | epoch time taken: 4.386761954985559
+2024-05-30 15:30:35,797| Thread-036 | INFO | 
+2024-05-30 15:30:35,797| Thread-036 | INFO | Epoch 233/1999	 learning rate: 0.0001
+2024-05-30 15:30:35,797| Thread-036 | INFO | ----------
+2024-05-30 15:30:39,638| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:30:40,260| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:30:40,263| Thread-036 | INFO | epoch time taken: 4.465997798135504
+2024-05-30 15:30:40,263| Thread-036 | INFO | 
+2024-05-30 15:30:40,263| Thread-036 | INFO | Epoch 234/1999	 learning rate: 0.0001
+2024-05-30 15:30:40,263| Thread-036 | INFO | ----------
+2024-05-30 15:30:44,014| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:30:44,866| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:30:44,869| Thread-036 | INFO | epoch time taken: 4.605739899910986
+2024-05-30 15:30:44,869| Thread-036 | INFO | 
+2024-05-30 15:30:44,869| Thread-036 | INFO | Epoch 235/1999	 learning rate: 0.0001
+2024-05-30 15:30:44,869| Thread-036 | INFO | ----------
+2024-05-30 15:30:48,801| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:30:49,597| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:30:49,600| Thread-036 | INFO | epoch time taken: 4.730767197906971
+2024-05-30 15:30:49,600| Thread-036 | INFO | 
+2024-05-30 15:30:49,600| Thread-036 | INFO | Epoch 236/1999	 learning rate: 0.0001
+2024-05-30 15:30:49,600| Thread-036 | INFO | ----------
+2024-05-30 15:30:53,503| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:30:54,386| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:30:54,408| Thread-036 | INFO | epoch time taken: 4.807853526901454
+2024-05-30 15:30:54,408| Thread-036 | INFO | 
+2024-05-30 15:30:54,408| Thread-036 | INFO | Epoch 237/1999	 learning rate: 0.0001
+2024-05-30 15:30:54,408| Thread-036 | INFO | ----------
+2024-05-30 15:30:58,457| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:30:59,136| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:30:59,244| Thread-036 | INFO | epoch time taken: 4.835681569995359
+2024-05-30 15:30:59,244| Thread-036 | INFO | 
+2024-05-30 15:30:59,244| Thread-036 | INFO | Epoch 238/1999	 learning rate: 0.0001
+2024-05-30 15:30:59,244| Thread-036 | INFO | ----------
+2024-05-30 15:31:03,043| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:31:03,781| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:31:03,848| Thread-036 | INFO | epoch time taken: 4.60422590887174
+2024-05-30 15:31:03,849| Thread-036 | INFO | 
+2024-05-30 15:31:03,849| Thread-036 | INFO | Epoch 239/1999	 learning rate: 0.0001
+2024-05-30 15:31:03,849| Thread-036 | INFO | ----------
+2024-05-30 15:31:07,768| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:31:08,655| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:31:08,760| Thread-036 | INFO | epoch time taken: 4.911426823120564
+2024-05-30 15:31:08,760| Thread-036 | INFO | 
+2024-05-30 15:31:08,761| Thread-036 | INFO | Epoch 240/1999	 learning rate: 0.0001
+2024-05-30 15:31:08,761| Thread-036 | INFO | ----------
+2024-05-30 15:31:12,794| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:31:13,557| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:31:13,560| Thread-036 | INFO | epoch time taken: 4.799004917964339
+2024-05-30 15:31:13,560| Thread-036 | INFO | 
+2024-05-30 15:31:13,560| Thread-036 | INFO | Epoch 241/1999	 learning rate: 0.0001
+2024-05-30 15:31:13,560| Thread-036 | INFO | ----------
+2024-05-30 15:31:17,458| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:31:18,178| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:31:18,181| Thread-036 | INFO | epoch time taken: 4.621133000822738
+2024-05-30 15:31:18,181| Thread-036 | INFO | 
+2024-05-30 15:31:18,181| Thread-036 | INFO | Epoch 242/1999	 learning rate: 0.0001
+2024-05-30 15:31:18,181| Thread-036 | INFO | ----------
+2024-05-30 15:31:21,919| Thread-036 | INFO | train Loss: 0.0055
+2024-05-30 15:31:22,605| Thread-036 | INFO | valid Loss: 0.0067
+2024-05-30 15:31:22,624| Thread-036 | INFO | epoch time taken: 4.442692134063691
+2024-05-30 15:31:22,624| Thread-036 | INFO | 
+2024-05-30 15:31:22,624| Thread-036 | INFO | Epoch 243/1999	 learning rate: 0.0001
+2024-05-30 15:31:22,624| Thread-036 | INFO | ----------
+2024-05-30 15:31:26,518| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:31:27,205| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:31:27,208| Thread-036 | INFO | epoch time taken: 4.583917316049337
+2024-05-30 15:31:27,208| Thread-036 | INFO | 
+2024-05-30 15:31:27,208| Thread-036 | INFO | Epoch 244/1999	 learning rate: 0.0001
+2024-05-30 15:31:27,208| Thread-036 | INFO | ----------
+2024-05-30 15:31:30,839| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:31:31,484| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:31:31,487| Thread-036 | INFO | epoch time taken: 4.27861126489006
+2024-05-30 15:31:31,487| Thread-036 | INFO | 
+2024-05-30 15:31:31,487| Thread-036 | INFO | Epoch 245/1999	 learning rate: 0.0001
+2024-05-30 15:31:31,487| Thread-036 | INFO | ----------
+2024-05-30 15:31:35,259| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:31:35,857| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:31:35,859| Thread-036 | INFO | epoch time taken: 4.372358232969418
+2024-05-30 15:31:35,859| Thread-036 | INFO | 
+2024-05-30 15:31:35,860| Thread-036 | INFO | Epoch 246/1999	 learning rate: 0.0001
+2024-05-30 15:31:35,860| Thread-036 | INFO | ----------
+2024-05-30 15:31:39,679| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:31:40,542| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:31:40,651| Thread-036 | INFO | epoch time taken: 4.791175393154845
+2024-05-30 15:31:40,651| Thread-036 | INFO | 
+2024-05-30 15:31:40,651| Thread-036 | INFO | Epoch 247/1999	 learning rate: 0.0001
+2024-05-30 15:31:40,651| Thread-036 | INFO | ----------
+2024-05-30 15:31:44,792| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:31:45,549| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:31:45,564| Thread-036 | INFO | epoch time taken: 4.91298260493204
+2024-05-30 15:31:45,564| Thread-036 | INFO | 
+2024-05-30 15:31:45,564| Thread-036 | INFO | Epoch 248/1999	 learning rate: 0.0001
+2024-05-30 15:31:45,564| Thread-036 | INFO | ----------
+2024-05-30 15:31:49,500| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:31:50,193| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:31:50,195| Thread-036 | INFO | epoch time taken: 4.631270019104704
+2024-05-30 15:31:50,196| Thread-036 | INFO | 
+2024-05-30 15:31:50,196| Thread-036 | INFO | Epoch 249/1999	 learning rate: 0.0001
+2024-05-30 15:31:50,196| Thread-036 | INFO | ----------
+2024-05-30 15:31:53,917| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:31:54,601| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:31:54,604| Thread-036 | INFO | epoch time taken: 4.408068989869207
+2024-05-30 15:31:54,604| Thread-036 | INFO | 
+2024-05-30 15:31:54,604| Thread-036 | INFO | Epoch 250/1999	 learning rate: 0.0001
+2024-05-30 15:31:54,604| Thread-036 | INFO | ----------
+2024-05-30 15:31:58,267| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:31:58,912| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:31:58,914| Thread-036 | INFO | epoch time taken: 4.310354931978509
+2024-05-30 15:31:58,914| Thread-036 | INFO | 
+2024-05-30 15:31:58,914| Thread-036 | INFO | Epoch 251/1999	 learning rate: 0.0001
+2024-05-30 15:31:58,915| Thread-036 | INFO | ----------
+2024-05-30 15:32:02,710| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:32:03,377| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:32:03,379| Thread-036 | INFO | epoch time taken: 4.464090585941449
+2024-05-30 15:32:03,379| Thread-036 | INFO | 
+2024-05-30 15:32:03,379| Thread-036 | INFO | Epoch 252/1999	 learning rate: 0.0001
+2024-05-30 15:32:03,379| Thread-036 | INFO | ----------
+2024-05-30 15:32:07,071| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:32:07,764| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:32:07,766| Thread-036 | INFO | epoch time taken: 4.3875288490671664
+2024-05-30 15:32:07,766| Thread-036 | INFO | 
+2024-05-30 15:32:07,766| Thread-036 | INFO | Epoch 253/1999	 learning rate: 0.0001
+2024-05-30 15:32:07,766| Thread-036 | INFO | ----------
+2024-05-30 15:32:11,540| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:32:12,470| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:32:12,472| Thread-036 | INFO | epoch time taken: 4.705597979947925
+2024-05-30 15:32:12,472| Thread-036 | INFO | 
+2024-05-30 15:32:12,472| Thread-036 | INFO | Epoch 254/1999	 learning rate: 0.0001
+2024-05-30 15:32:12,472| Thread-036 | INFO | ----------
+2024-05-30 15:32:16,323| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:32:17,129| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:32:17,132| Thread-036 | INFO | epoch time taken: 4.659749481827021
+2024-05-30 15:32:17,132| Thread-036 | INFO | 
+2024-05-30 15:32:17,132| Thread-036 | INFO | Epoch 255/1999	 learning rate: 0.0001
+2024-05-30 15:32:17,132| Thread-036 | INFO | ----------
+2024-05-30 15:32:20,933| Thread-036 | INFO | train Loss: 0.0054
+2024-05-30 15:32:21,686| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:32:21,689| Thread-036 | INFO | epoch time taken: 4.556563118938357
+2024-05-30 15:32:21,689| Thread-036 | INFO | 
+2024-05-30 15:32:21,689| Thread-036 | INFO | Epoch 256/1999	 learning rate: 0.0001
+2024-05-30 15:32:21,689| Thread-036 | INFO | ----------
+2024-05-30 15:32:25,555| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:32:26,427| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:32:26,430| Thread-036 | INFO | epoch time taken: 4.740964361000806
+2024-05-30 15:32:26,430| Thread-036 | INFO | 
+2024-05-30 15:32:26,430| Thread-036 | INFO | Epoch 257/1999	 learning rate: 0.0001
+2024-05-30 15:32:26,430| Thread-036 | INFO | ----------
+2024-05-30 15:32:30,529| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:32:31,240| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:32:31,242| Thread-036 | INFO | epoch time taken: 4.812133535044268
+2024-05-30 15:32:31,242| Thread-036 | INFO | 
+2024-05-30 15:32:31,242| Thread-036 | INFO | Epoch 258/1999	 learning rate: 0.0001
+2024-05-30 15:32:31,243| Thread-036 | INFO | ----------
+2024-05-30 15:32:35,114| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:32:35,815| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:32:35,817| Thread-036 | INFO | epoch time taken: 4.574912724085152
+2024-05-30 15:32:35,817| Thread-036 | INFO | 
+2024-05-30 15:32:35,818| Thread-036 | INFO | Epoch 259/1999	 learning rate: 0.0001
+2024-05-30 15:32:35,818| Thread-036 | INFO | ----------
+2024-05-30 15:32:39,713| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:32:40,397| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:32:40,399| Thread-036 | INFO | epoch time taken: 4.581748167052865
+2024-05-30 15:32:40,399| Thread-036 | INFO | 
+2024-05-30 15:32:40,399| Thread-036 | INFO | Epoch 260/1999	 learning rate: 0.0001
+2024-05-30 15:32:40,400| Thread-036 | INFO | ----------
+2024-05-30 15:32:44,202| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:32:44,820| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:32:44,823| Thread-036 | INFO | epoch time taken: 4.423285181866959
+2024-05-30 15:32:44,823| Thread-036 | INFO | 
+2024-05-30 15:32:44,823| Thread-036 | INFO | Epoch 261/1999	 learning rate: 0.0001
+2024-05-30 15:32:44,823| Thread-036 | INFO | ----------
+2024-05-30 15:32:48,756| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:32:49,659| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:32:49,662| Thread-036 | INFO | epoch time taken: 4.838892744854093
+2024-05-30 15:32:49,662| Thread-036 | INFO | 
+2024-05-30 15:32:49,662| Thread-036 | INFO | Epoch 262/1999	 learning rate: 0.0001
+2024-05-30 15:32:49,662| Thread-036 | INFO | ----------
+2024-05-30 15:32:53,771| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:32:54,565| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:32:54,568| Thread-036 | INFO | epoch time taken: 4.905838483944535
+2024-05-30 15:32:54,568| Thread-036 | INFO | 
+2024-05-30 15:32:54,568| Thread-036 | INFO | Epoch 263/1999	 learning rate: 0.0001
+2024-05-30 15:32:54,568| Thread-036 | INFO | ----------
+2024-05-30 15:32:58,545| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:32:59,352| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:32:59,355| Thread-036 | INFO | epoch time taken: 4.786887287162244
+2024-05-30 15:32:59,355| Thread-036 | INFO | 
+2024-05-30 15:32:59,355| Thread-036 | INFO | Epoch 264/1999	 learning rate: 0.0001
+2024-05-30 15:32:59,355| Thread-036 | INFO | ----------
+2024-05-30 15:33:03,241| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:33:04,092| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:33:04,095| Thread-036 | INFO | epoch time taken: 4.739784887991846
+2024-05-30 15:33:04,095| Thread-036 | INFO | 
+2024-05-30 15:33:04,095| Thread-036 | INFO | Epoch 265/1999	 learning rate: 0.0001
+2024-05-30 15:33:04,095| Thread-036 | INFO | ----------
+2024-05-30 15:33:08,036| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:33:08,721| Thread-036 | INFO | valid Loss: 0.0069
+2024-05-30 15:33:08,723| Thread-036 | INFO | epoch time taken: 4.628309887833893
+2024-05-30 15:33:08,724| Thread-036 | INFO | 
+2024-05-30 15:33:08,724| Thread-036 | INFO | Epoch 266/1999	 learning rate: 0.0001
+2024-05-30 15:33:08,724| Thread-036 | INFO | ----------
+2024-05-30 15:33:12,627| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:33:13,467| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:33:13,470| Thread-036 | INFO | epoch time taken: 4.745879695052281
+2024-05-30 15:33:13,470| Thread-036 | INFO | 
+2024-05-30 15:33:13,470| Thread-036 | INFO | Epoch 267/1999	 learning rate: 0.0001
+2024-05-30 15:33:13,470| Thread-036 | INFO | ----------
+2024-05-30 15:33:17,534| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:33:18,414| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:33:18,416| Thread-036 | INFO | epoch time taken: 4.945909760892391
+2024-05-30 15:33:18,416| Thread-036 | INFO | 
+2024-05-30 15:33:18,416| Thread-036 | INFO | Epoch 268/1999	 learning rate: 0.0001
+2024-05-30 15:33:18,416| Thread-036 | INFO | ----------
+2024-05-30 15:33:22,300| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:33:22,985| Thread-036 | INFO | valid Loss: 0.0092
+2024-05-30 15:33:22,987| Thread-036 | INFO | epoch time taken: 4.571306833066046
+2024-05-30 15:33:22,987| Thread-036 | INFO | 
+2024-05-30 15:33:22,987| Thread-036 | INFO | Epoch 269/1999	 learning rate: 0.0001
+2024-05-30 15:33:22,987| Thread-036 | INFO | ----------
+2024-05-30 15:33:26,908| Thread-036 | INFO | train Loss: 0.0053
+2024-05-30 15:33:27,745| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:33:27,747| Thread-036 | INFO | epoch time taken: 4.759772007120773
+2024-05-30 15:33:27,747| Thread-036 | INFO | 
+2024-05-30 15:33:27,747| Thread-036 | INFO | Epoch 270/1999	 learning rate: 0.0001
+2024-05-30 15:33:27,747| Thread-036 | INFO | ----------
+2024-05-30 15:33:31,711| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:33:32,560| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:33:32,592| Thread-036 | INFO | epoch time taken: 4.844647683901712
+2024-05-30 15:33:32,592| Thread-036 | INFO | 
+2024-05-30 15:33:32,592| Thread-036 | INFO | Epoch 271/1999	 learning rate: 0.0001
+2024-05-30 15:33:32,592| Thread-036 | INFO | ----------
+2024-05-30 15:33:36,531| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:33:37,230| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:33:37,232| Thread-036 | INFO | epoch time taken: 4.640011915937066
+2024-05-30 15:33:37,232| Thread-036 | INFO | 
+2024-05-30 15:33:37,232| Thread-036 | INFO | Epoch 272/1999	 learning rate: 0.0001
+2024-05-30 15:33:37,232| Thread-036 | INFO | ----------
+2024-05-30 15:33:41,075| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:33:41,799| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:33:41,802| Thread-036 | INFO | epoch time taken: 4.569269605912268
+2024-05-30 15:33:41,802| Thread-036 | INFO | 
+2024-05-30 15:33:41,802| Thread-036 | INFO | Epoch 273/1999	 learning rate: 0.0001
+2024-05-30 15:33:41,802| Thread-036 | INFO | ----------
+2024-05-30 15:33:45,671| Thread-036 | INFO | train Loss: 0.0052
+2024-05-30 15:33:46,317| Thread-036 | INFO | valid Loss: 0.0087
+2024-05-30 15:33:46,348| Thread-036 | INFO | epoch time taken: 4.545774481026456
+2024-05-30 15:33:46,348| Thread-036 | INFO | 
+2024-05-30 15:33:46,348| Thread-036 | INFO | Epoch 274/1999	 learning rate: 0.0001
+2024-05-30 15:33:46,348| Thread-036 | INFO | ----------
+2024-05-30 15:33:50,129| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:33:50,813| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:33:50,815| Thread-036 | INFO | epoch time taken: 4.466924403095618
+2024-05-30 15:33:50,815| Thread-036 | INFO | 
+2024-05-30 15:33:50,815| Thread-036 | INFO | Epoch 275/1999	 learning rate: 0.0001
+2024-05-30 15:33:50,815| Thread-036 | INFO | ----------
+2024-05-30 15:33:54,565| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:33:55,249| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:33:55,252| Thread-036 | INFO | epoch time taken: 4.436743081081659
+2024-05-30 15:33:55,252| Thread-036 | INFO | 
+2024-05-30 15:33:55,252| Thread-036 | INFO | Epoch 276/1999	 learning rate: 0.0001
+2024-05-30 15:33:55,252| Thread-036 | INFO | ----------
+2024-05-30 15:33:59,018| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:33:59,673| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:33:59,675| Thread-036 | INFO | epoch time taken: 4.423507995903492
+2024-05-30 15:33:59,676| Thread-036 | INFO | 
+2024-05-30 15:33:59,676| Thread-036 | INFO | Epoch 277/1999	 learning rate: 0.0001
+2024-05-30 15:33:59,676| Thread-036 | INFO | ----------
+2024-05-30 15:34:03,424| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:34:04,092| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:34:04,102| Thread-036 | INFO | epoch time taken: 4.4265331260394305
+2024-05-30 15:34:04,102| Thread-036 | INFO | 
+2024-05-30 15:34:04,102| Thread-036 | INFO | Epoch 278/1999	 learning rate: 0.0001
+2024-05-30 15:34:04,103| Thread-036 | INFO | ----------
+2024-05-30 15:34:07,791| Thread-036 | INFO | train Loss: 0.0051
+2024-05-30 15:34:08,697| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:34:08,776| Thread-036 | INFO | epoch time taken: 4.673418023856357
+2024-05-30 15:34:08,776| Thread-036 | INFO | 
+2024-05-30 15:34:08,776| Thread-036 | INFO | Epoch 279/1999	 learning rate: 0.0001
+2024-05-30 15:34:08,776| Thread-036 | INFO | ----------
+2024-05-30 15:34:12,682| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:34:13,582| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:34:13,585| Thread-036 | INFO | epoch time taken: 4.808548267930746
+2024-05-30 15:34:13,585| Thread-036 | INFO | 
+2024-05-30 15:34:13,585| Thread-036 | INFO | Epoch 280/1999	 learning rate: 0.0001
+2024-05-30 15:34:13,585| Thread-036 | INFO | ----------
+2024-05-30 15:34:17,670| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:34:18,641| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:34:18,653| Thread-036 | INFO | epoch time taken: 5.06810609693639
+2024-05-30 15:34:18,653| Thread-036 | INFO | 
+2024-05-30 15:34:18,653| Thread-036 | INFO | Epoch 281/1999	 learning rate: 0.0001
+2024-05-30 15:34:18,654| Thread-036 | INFO | ----------
+2024-05-30 15:34:22,539| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:34:23,529| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:34:23,544| Thread-036 | INFO | epoch time taken: 4.890432576881722
+2024-05-30 15:34:23,544| Thread-036 | INFO | 
+2024-05-30 15:34:23,544| Thread-036 | INFO | Epoch 282/1999	 learning rate: 0.0001
+2024-05-30 15:34:23,544| Thread-036 | INFO | ----------
+2024-05-30 15:34:27,479| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:34:28,195| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:34:28,197| Thread-036 | INFO | epoch time taken: 4.653105232166126
+2024-05-30 15:34:28,197| Thread-036 | INFO | 
+2024-05-30 15:34:28,198| Thread-036 | INFO | Epoch 283/1999	 learning rate: 0.0001
+2024-05-30 15:34:28,198| Thread-036 | INFO | ----------
+2024-05-30 15:34:32,097| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:34:32,998| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:34:33,000| Thread-036 | INFO | epoch time taken: 4.802651609061286
+2024-05-30 15:34:33,000| Thread-036 | INFO | 
+2024-05-30 15:34:33,001| Thread-036 | INFO | Epoch 284/1999	 learning rate: 0.0001
+2024-05-30 15:34:33,001| Thread-036 | INFO | ----------
+2024-05-30 15:34:37,209| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:34:38,321| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:34:38,324| Thread-036 | INFO | epoch time taken: 5.3229391009081155
+2024-05-30 15:34:38,324| Thread-036 | INFO | 
+2024-05-30 15:34:38,324| Thread-036 | INFO | Epoch 285/1999	 learning rate: 0.0001
+2024-05-30 15:34:38,324| Thread-036 | INFO | ----------
+2024-05-30 15:34:42,486| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:34:43,246| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:34:43,248| Thread-036 | INFO | epoch time taken: 4.924502745969221
+2024-05-30 15:34:43,248| Thread-036 | INFO | 
+2024-05-30 15:34:43,248| Thread-036 | INFO | Epoch 286/1999	 learning rate: 0.0001
+2024-05-30 15:34:43,248| Thread-036 | INFO | ----------
+2024-05-30 15:34:47,276| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:34:48,217| Thread-036 | INFO | valid Loss: 0.0068
+2024-05-30 15:34:48,340| Thread-036 | INFO | epoch time taken: 5.091682236874476
+2024-05-30 15:34:48,340| Thread-036 | INFO | 
+2024-05-30 15:34:48,340| Thread-036 | INFO | Epoch 287/1999	 learning rate: 0.0001
+2024-05-30 15:34:48,341| Thread-036 | INFO | ----------
+2024-05-30 15:34:52,486| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:34:53,443| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:34:53,446| Thread-036 | INFO | epoch time taken: 5.105568327009678
+2024-05-30 15:34:53,446| Thread-036 | INFO | 
+2024-05-30 15:34:53,446| Thread-036 | INFO | Epoch 288/1999	 learning rate: 0.0001
+2024-05-30 15:34:53,446| Thread-036 | INFO | ----------
+2024-05-30 15:34:57,451| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:34:58,200| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:34:58,212| Thread-036 | INFO | epoch time taken: 4.765667126048356
+2024-05-30 15:34:58,212| Thread-036 | INFO | 
+2024-05-30 15:34:58,212| Thread-036 | INFO | Epoch 289/1999	 learning rate: 0.0001
+2024-05-30 15:34:58,212| Thread-036 | INFO | ----------
+2024-05-30 15:35:02,151| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:35:02,965| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:35:02,968| Thread-036 | INFO | epoch time taken: 4.755839553894475
+2024-05-30 15:35:02,968| Thread-036 | INFO | 
+2024-05-30 15:35:02,968| Thread-036 | INFO | Epoch 290/1999	 learning rate: 0.0001
+2024-05-30 15:35:02,968| Thread-036 | INFO | ----------
+2024-05-30 15:35:06,906| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:35:07,754| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:35:07,756| Thread-036 | INFO | epoch time taken: 4.787644420051947
+2024-05-30 15:35:07,756| Thread-036 | INFO | 
+2024-05-30 15:35:07,756| Thread-036 | INFO | Epoch 291/1999	 learning rate: 0.0001
+2024-05-30 15:35:07,756| Thread-036 | INFO | ----------
+2024-05-30 15:35:11,942| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:12,925| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:35:12,997| Thread-036 | INFO | epoch time taken: 5.241096509853378
+2024-05-30 15:35:12,997| Thread-036 | INFO | 
+2024-05-30 15:35:12,997| Thread-036 | INFO | Epoch 292/1999	 learning rate: 0.0001
+2024-05-30 15:35:12,997| Thread-036 | INFO | ----------
+2024-05-30 15:35:16,997| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:17,761| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:35:17,765| Thread-036 | INFO | epoch time taken: 4.767186444019899
+2024-05-30 15:35:17,765| Thread-036 | INFO | 
+2024-05-30 15:35:17,765| Thread-036 | INFO | Epoch 293/1999	 learning rate: 0.0001
+2024-05-30 15:35:17,765| Thread-036 | INFO | ----------
+2024-05-30 15:35:21,534| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:22,244| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:35:22,254| Thread-036 | INFO | epoch time taken: 4.489271983038634
+2024-05-30 15:35:22,254| Thread-036 | INFO | 
+2024-05-30 15:35:22,254| Thread-036 | INFO | Epoch 294/1999	 learning rate: 0.0001
+2024-05-30 15:35:22,254| Thread-036 | INFO | ----------
+2024-05-30 15:35:26,106| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:26,885| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:35:26,887| Thread-036 | INFO | epoch time taken: 4.63320865505375
+2024-05-30 15:35:26,887| Thread-036 | INFO | 
+2024-05-30 15:35:26,888| Thread-036 | INFO | Epoch 295/1999	 learning rate: 0.0001
+2024-05-30 15:35:26,888| Thread-036 | INFO | ----------
+2024-05-30 15:35:30,590| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:31,264| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:35:31,266| Thread-036 | INFO | epoch time taken: 4.378294324036688
+2024-05-30 15:35:31,266| Thread-036 | INFO | 
+2024-05-30 15:35:31,266| Thread-036 | INFO | Epoch 296/1999	 learning rate: 0.0001
+2024-05-30 15:35:31,266| Thread-036 | INFO | ----------
+2024-05-30 15:35:35,071| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:35:35,717| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:35:35,720| Thread-036 | INFO | epoch time taken: 4.453734143171459
+2024-05-30 15:35:35,720| Thread-036 | INFO | 
+2024-05-30 15:35:35,720| Thread-036 | INFO | Epoch 297/1999	 learning rate: 0.0001
+2024-05-30 15:35:35,720| Thread-036 | INFO | ----------
+2024-05-30 15:35:39,584| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:35:40,250| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:35:40,252| Thread-036 | INFO | epoch time taken: 4.5318429719191045
+2024-05-30 15:35:40,252| Thread-036 | INFO | 
+2024-05-30 15:35:40,252| Thread-036 | INFO | Epoch 298/1999	 learning rate: 0.0001
+2024-05-30 15:35:40,252| Thread-036 | INFO | ----------
+2024-05-30 15:35:44,107| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:44,863| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:35:44,898| Thread-036 | INFO | epoch time taken: 4.646289235912263
+2024-05-30 15:35:44,898| Thread-036 | INFO | 
+2024-05-30 15:35:44,899| Thread-036 | INFO | Epoch 299/1999	 learning rate: 0.0001
+2024-05-30 15:35:44,899| Thread-036 | INFO | ----------
+2024-05-30 15:35:48,920| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:35:49,584| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:35:49,704| Thread-036 | INFO | epoch time taken: 4.8051806800067425
+2024-05-30 15:35:49,704| Thread-036 | INFO | 
+2024-05-30 15:35:49,704| Thread-036 | INFO | Epoch 300/1999	 learning rate: 0.0001
+2024-05-30 15:35:49,704| Thread-036 | INFO | ----------
+2024-05-30 15:35:53,374| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:54,041| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:35:54,043| Thread-036 | INFO | epoch time taken: 4.339136325987056
+2024-05-30 15:35:54,043| Thread-036 | INFO | 
+2024-05-30 15:35:54,043| Thread-036 | INFO | Epoch 301/1999	 learning rate: 0.0001
+2024-05-30 15:35:54,043| Thread-036 | INFO | ----------
+2024-05-30 15:35:57,758| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:35:58,498| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:35:58,500| Thread-036 | INFO | epoch time taken: 4.457050991943106
+2024-05-30 15:35:58,501| Thread-036 | INFO | 
+2024-05-30 15:35:58,501| Thread-036 | INFO | Epoch 302/1999	 learning rate: 0.0001
+2024-05-30 15:35:58,501| Thread-036 | INFO | ----------
+2024-05-30 15:36:02,225| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:36:02,889| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:36:02,891| Thread-036 | INFO | epoch time taken: 4.390877167927101
+2024-05-30 15:36:02,892| Thread-036 | INFO | 
+2024-05-30 15:36:02,892| Thread-036 | INFO | Epoch 303/1999	 learning rate: 0.0001
+2024-05-30 15:36:02,892| Thread-036 | INFO | ----------
+2024-05-30 15:36:06,767| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:36:07,523| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:36:07,525| Thread-036 | INFO | epoch time taken: 4.633501359960064
+2024-05-30 15:36:07,525| Thread-036 | INFO | 
+2024-05-30 15:36:07,526| Thread-036 | INFO | Epoch 304/1999	 learning rate: 0.0001
+2024-05-30 15:36:07,526| Thread-036 | INFO | ----------
+2024-05-30 15:36:11,218| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:36:11,819| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:36:11,824| Thread-036 | INFO | epoch time taken: 4.298241519136354
+2024-05-30 15:36:11,824| Thread-036 | INFO | 
+2024-05-30 15:36:11,824| Thread-036 | INFO | Epoch 305/1999	 learning rate: 0.0001
+2024-05-30 15:36:11,824| Thread-036 | INFO | ----------
+2024-05-30 15:36:15,568| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:36:16,392| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:36:16,409| Thread-036 | INFO | epoch time taken: 4.585328621091321
+2024-05-30 15:36:16,409| Thread-036 | INFO | 
+2024-05-30 15:36:16,410| Thread-036 | INFO | Epoch 306/1999	 learning rate: 0.0001
+2024-05-30 15:36:16,410| Thread-036 | INFO | ----------
+2024-05-30 15:36:20,443| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:36:21,370| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:36:21,373| Thread-036 | INFO | epoch time taken: 4.96326618688181
+2024-05-30 15:36:21,373| Thread-036 | INFO | 
+2024-05-30 15:36:21,373| Thread-036 | INFO | Epoch 307/1999	 learning rate: 0.0001
+2024-05-30 15:36:21,373| Thread-036 | INFO | ----------
+2024-05-30 15:36:25,368| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:36:26,146| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:36:26,149| Thread-036 | INFO | epoch time taken: 4.775549740996212
+2024-05-30 15:36:26,149| Thread-036 | INFO | 
+2024-05-30 15:36:26,149| Thread-036 | INFO | Epoch 308/1999	 learning rate: 0.0001
+2024-05-30 15:36:26,149| Thread-036 | INFO | ----------
+2024-05-30 15:36:30,079| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:36:30,862| Thread-036 | INFO | valid Loss: 0.0069
+2024-05-30 15:36:30,864| Thread-036 | INFO | epoch time taken: 4.714920832077041
+2024-05-30 15:36:30,864| Thread-036 | INFO | 
+2024-05-30 15:36:30,864| Thread-036 | INFO | Epoch 309/1999	 learning rate: 0.0001
+2024-05-30 15:36:30,864| Thread-036 | INFO | ----------
+2024-05-30 15:36:34,718| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:36:35,377| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:36:35,379| Thread-036 | INFO | epoch time taken: 4.5151090659201145
+2024-05-30 15:36:35,379| Thread-036 | INFO | 
+2024-05-30 15:36:35,379| Thread-036 | INFO | Epoch 310/1999	 learning rate: 0.0001
+2024-05-30 15:36:35,380| Thread-036 | INFO | ----------
+2024-05-30 15:36:39,213| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:36:39,839| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:36:39,841| Thread-036 | INFO | epoch time taken: 4.46198808401823
+2024-05-30 15:36:39,842| Thread-036 | INFO | 
+2024-05-30 15:36:39,842| Thread-036 | INFO | Epoch 311/1999	 learning rate: 0.0001
+2024-05-30 15:36:39,842| Thread-036 | INFO | ----------
+2024-05-30 15:36:43,659| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:36:44,317| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:36:44,321| Thread-036 | INFO | epoch time taken: 4.479025817941874
+2024-05-30 15:36:44,321| Thread-036 | INFO | 
+2024-05-30 15:36:44,321| Thread-036 | INFO | Epoch 312/1999	 learning rate: 0.0001
+2024-05-30 15:36:44,321| Thread-036 | INFO | ----------
+2024-05-30 15:36:48,167| Thread-036 | INFO | train Loss: 0.0050
+2024-05-30 15:36:48,965| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:36:48,967| Thread-036 | INFO | epoch time taken: 4.646560258930549
+2024-05-30 15:36:48,968| Thread-036 | INFO | 
+2024-05-30 15:36:48,968| Thread-036 | INFO | Epoch 313/1999	 learning rate: 0.0001
+2024-05-30 15:36:48,968| Thread-036 | INFO | ----------
+2024-05-30 15:36:52,824| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:36:53,621| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:36:53,623| Thread-036 | INFO | epoch time taken: 4.655391544802114
+2024-05-30 15:36:53,624| Thread-036 | INFO | 
+2024-05-30 15:36:53,624| Thread-036 | INFO | Epoch 314/1999	 learning rate: 0.0001
+2024-05-30 15:36:53,624| Thread-036 | INFO | ----------
+2024-05-30 15:36:57,477| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:36:58,474| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:36:58,516| Thread-036 | INFO | epoch time taken: 4.891905199969187
+2024-05-30 15:36:58,516| Thread-036 | INFO | 
+2024-05-30 15:36:58,516| Thread-036 | INFO | Epoch 315/1999	 learning rate: 0.0001
+2024-05-30 15:36:58,516| Thread-036 | INFO | ----------
+2024-05-30 15:37:02,570| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:37:03,264| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:37:03,284| Thread-036 | INFO | epoch time taken: 4.767811733996496
+2024-05-30 15:37:03,284| Thread-036 | INFO | 
+2024-05-30 15:37:03,284| Thread-036 | INFO | Epoch 316/1999	 learning rate: 0.0001
+2024-05-30 15:37:03,284| Thread-036 | INFO | ----------
+2024-05-30 15:37:07,170| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:37:07,969| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:37:07,971| Thread-036 | INFO | epoch time taken: 4.687001876998693
+2024-05-30 15:37:07,971| Thread-036 | INFO | 
+2024-05-30 15:37:07,972| Thread-036 | INFO | Epoch 317/1999	 learning rate: 0.0001
+2024-05-30 15:37:07,972| Thread-036 | INFO | ----------
+2024-05-30 15:37:11,856| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:37:12,550| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:37:12,556| Thread-036 | INFO | epoch time taken: 4.58427136996761
+2024-05-30 15:37:12,556| Thread-036 | INFO | 
+2024-05-30 15:37:12,556| Thread-036 | INFO | Epoch 318/1999	 learning rate: 0.0001
+2024-05-30 15:37:12,556| Thread-036 | INFO | ----------
+2024-05-30 15:37:16,283| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:37:16,921| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:37:16,924| Thread-036 | INFO | epoch time taken: 4.367431839928031
+2024-05-30 15:37:16,924| Thread-036 | INFO | 
+2024-05-30 15:37:16,924| Thread-036 | INFO | Epoch 319/1999	 learning rate: 0.0001
+2024-05-30 15:37:16,924| Thread-036 | INFO | ----------
+2024-05-30 15:37:20,730| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:37:21,403| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:37:21,405| Thread-036 | INFO | epoch time taken: 4.481352971866727
+2024-05-30 15:37:21,405| Thread-036 | INFO | 
+2024-05-30 15:37:21,405| Thread-036 | INFO | Epoch 320/1999	 learning rate: 0.0001
+2024-05-30 15:37:21,405| Thread-036 | INFO | ----------
+2024-05-30 15:37:25,202| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:37:25,830| Thread-036 | INFO | valid Loss: 0.0086
+2024-05-30 15:37:25,840| Thread-036 | INFO | epoch time taken: 4.4345400971360505
+2024-05-30 15:37:25,840| Thread-036 | INFO | 
+2024-05-30 15:37:25,840| Thread-036 | INFO | Epoch 321/1999	 learning rate: 0.0001
+2024-05-30 15:37:25,840| Thread-036 | INFO | ----------
+2024-05-30 15:37:29,526| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:37:30,185| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:37:30,204| Thread-036 | INFO | epoch time taken: 4.363514380063862
+2024-05-30 15:37:30,204| Thread-036 | INFO | 
+2024-05-30 15:37:30,204| Thread-036 | INFO | Epoch 322/1999	 learning rate: 0.0001
+2024-05-30 15:37:30,204| Thread-036 | INFO | ----------
+2024-05-30 15:37:34,064| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:37:34,956| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:37:34,958| Thread-036 | INFO | epoch time taken: 4.75398290483281
+2024-05-30 15:37:34,958| Thread-036 | INFO | 
+2024-05-30 15:37:34,958| Thread-036 | INFO | Epoch 323/1999	 learning rate: 0.0001
+2024-05-30 15:37:34,958| Thread-036 | INFO | ----------
+2024-05-30 15:37:38,921| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:37:39,646| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:37:39,648| Thread-036 | INFO | epoch time taken: 4.690225884085521
+2024-05-30 15:37:39,648| Thread-036 | INFO | 
+2024-05-30 15:37:39,648| Thread-036 | INFO | Epoch 324/1999	 learning rate: 0.0001
+2024-05-30 15:37:39,649| Thread-036 | INFO | ----------
+2024-05-30 15:37:43,299| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:37:44,032| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:37:44,035| Thread-036 | INFO | epoch time taken: 4.386550304945558
+2024-05-30 15:37:44,035| Thread-036 | INFO | 
+2024-05-30 15:37:44,035| Thread-036 | INFO | Epoch 325/1999	 learning rate: 0.0001
+2024-05-30 15:37:44,035| Thread-036 | INFO | ----------
+2024-05-30 15:37:47,917| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:37:48,616| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:37:48,618| Thread-036 | INFO | epoch time taken: 4.582817442016676
+2024-05-30 15:37:48,618| Thread-036 | INFO | 
+2024-05-30 15:37:48,618| Thread-036 | INFO | Epoch 326/1999	 learning rate: 0.0001
+2024-05-30 15:37:48,618| Thread-036 | INFO | ----------
+2024-05-30 15:37:52,465| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:37:53,323| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:37:53,325| Thread-036 | INFO | epoch time taken: 4.707176082069054
+2024-05-30 15:37:53,325| Thread-036 | INFO | 
+2024-05-30 15:37:53,326| Thread-036 | INFO | Epoch 327/1999	 learning rate: 0.0001
+2024-05-30 15:37:53,326| Thread-036 | INFO | ----------
+2024-05-30 15:37:57,325| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:37:58,062| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:37:58,069| Thread-036 | INFO | epoch time taken: 4.743643392808735
+2024-05-30 15:37:58,069| Thread-036 | INFO | 
+2024-05-30 15:37:58,069| Thread-036 | INFO | Epoch 328/1999	 learning rate: 0.0001
+2024-05-30 15:37:58,069| Thread-036 | INFO | ----------
+2024-05-30 15:38:01,890| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:02,730| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:38:02,733| Thread-036 | INFO | epoch time taken: 4.66327428794466
+2024-05-30 15:38:02,733| Thread-036 | INFO | 
+2024-05-30 15:38:02,733| Thread-036 | INFO | Epoch 329/1999	 learning rate: 0.0001
+2024-05-30 15:38:02,733| Thread-036 | INFO | ----------
+2024-05-30 15:38:06,847| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:07,812| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:38:07,815| Thread-036 | INFO | epoch time taken: 5.081797217018902
+2024-05-30 15:38:07,815| Thread-036 | INFO | 
+2024-05-30 15:38:07,815| Thread-036 | INFO | Epoch 330/1999	 learning rate: 0.0001
+2024-05-30 15:38:07,815| Thread-036 | INFO | ----------
+2024-05-30 15:38:11,844| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:38:12,790| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:38:12,873| Thread-036 | INFO | epoch time taken: 5.057951733004302
+2024-05-30 15:38:12,873| Thread-036 | INFO | 
+2024-05-30 15:38:12,873| Thread-036 | INFO | Epoch 331/1999	 learning rate: 0.0001
+2024-05-30 15:38:12,873| Thread-036 | INFO | ----------
+2024-05-30 15:38:16,946| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:17,709| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:38:17,713| Thread-036 | INFO | epoch time taken: 4.839903192128986
+2024-05-30 15:38:17,713| Thread-036 | INFO | 
+2024-05-30 15:38:17,713| Thread-036 | INFO | Epoch 332/1999	 learning rate: 0.0001
+2024-05-30 15:38:17,714| Thread-036 | INFO | ----------
+2024-05-30 15:38:21,682| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:38:22,583| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:38:22,636| Thread-036 | INFO | epoch time taken: 4.922240494983271
+2024-05-30 15:38:22,636| Thread-036 | INFO | 
+2024-05-30 15:38:22,636| Thread-036 | INFO | Epoch 333/1999	 learning rate: 0.0001
+2024-05-30 15:38:22,636| Thread-036 | INFO | ----------
+2024-05-30 15:38:26,625| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:38:27,292| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:38:27,298| Thread-036 | INFO | epoch time taken: 4.661927865818143
+2024-05-30 15:38:27,298| Thread-036 | INFO | 
+2024-05-30 15:38:27,298| Thread-036 | INFO | Epoch 334/1999	 learning rate: 0.0001
+2024-05-30 15:38:27,298| Thread-036 | INFO | ----------
+2024-05-30 15:38:31,022| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:38:31,701| Thread-036 | INFO | valid Loss: 0.0069
+2024-05-30 15:38:31,704| Thread-036 | INFO | epoch time taken: 4.405583071988076
+2024-05-30 15:38:31,704| Thread-036 | INFO | 
+2024-05-30 15:38:31,704| Thread-036 | INFO | Epoch 335/1999	 learning rate: 0.0001
+2024-05-30 15:38:31,704| Thread-036 | INFO | ----------
+2024-05-30 15:38:35,603| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:36,275| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:38:36,278| Thread-036 | INFO | epoch time taken: 4.573505631880835
+2024-05-30 15:38:36,278| Thread-036 | INFO | 
+2024-05-30 15:38:36,278| Thread-036 | INFO | Epoch 336/1999	 learning rate: 0.0001
+2024-05-30 15:38:36,278| Thread-036 | INFO | ----------
+2024-05-30 15:38:40,120| Thread-036 | INFO | train Loss: 0.0049
+2024-05-30 15:38:41,075| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:38:41,077| Thread-036 | INFO | epoch time taken: 4.799367245985195
+2024-05-30 15:38:41,077| Thread-036 | INFO | 
+2024-05-30 15:38:41,077| Thread-036 | INFO | Epoch 337/1999	 learning rate: 0.0001
+2024-05-30 15:38:41,077| Thread-036 | INFO | ----------
+2024-05-30 15:38:45,232| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:46,079| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:38:46,082| Thread-036 | INFO | epoch time taken: 5.004457317991182
+2024-05-30 15:38:46,082| Thread-036 | INFO | 
+2024-05-30 15:38:46,082| Thread-036 | INFO | Epoch 338/1999	 learning rate: 0.0001
+2024-05-30 15:38:46,082| Thread-036 | INFO | ----------
+2024-05-30 15:38:50,259| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:38:51,169| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:38:51,171| Thread-036 | INFO | epoch time taken: 5.089523083064705
+2024-05-30 15:38:51,172| Thread-036 | INFO | 
+2024-05-30 15:38:51,172| Thread-036 | INFO | Epoch 339/1999	 learning rate: 0.0001
+2024-05-30 15:38:51,172| Thread-036 | INFO | ----------
+2024-05-30 15:38:55,103| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:38:55,803| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:38:55,805| Thread-036 | INFO | epoch time taken: 4.633233218919486
+2024-05-30 15:38:55,805| Thread-036 | INFO | 
+2024-05-30 15:38:55,805| Thread-036 | INFO | Epoch 340/1999	 learning rate: 0.0001
+2024-05-30 15:38:55,805| Thread-036 | INFO | ----------
+2024-05-30 15:38:59,660| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:00,386| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:39:00,389| Thread-036 | INFO | epoch time taken: 4.583911141147837
+2024-05-30 15:39:00,389| Thread-036 | INFO | 
+2024-05-30 15:39:00,389| Thread-036 | INFO | Epoch 341/1999	 learning rate: 0.0001
+2024-05-30 15:39:00,389| Thread-036 | INFO | ----------
+2024-05-30 15:39:04,139| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:39:04,856| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:39:04,859| Thread-036 | INFO | epoch time taken: 4.469457806786522
+2024-05-30 15:39:04,859| Thread-036 | INFO | 
+2024-05-30 15:39:04,859| Thread-036 | INFO | Epoch 342/1999	 learning rate: 0.0001
+2024-05-30 15:39:04,859| Thread-036 | INFO | ----------
+2024-05-30 15:39:08,725| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:09,508| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:39:09,511| Thread-036 | INFO | epoch time taken: 4.652178099844605
+2024-05-30 15:39:09,511| Thread-036 | INFO | 
+2024-05-30 15:39:09,511| Thread-036 | INFO | Epoch 343/1999	 learning rate: 0.0001
+2024-05-30 15:39:09,511| Thread-036 | INFO | ----------
+2024-05-30 15:39:13,403| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:39:14,075| Thread-036 | INFO | valid Loss: 0.0085
+2024-05-30 15:39:14,078| Thread-036 | INFO | epoch time taken: 4.566536620026454
+2024-05-30 15:39:14,078| Thread-036 | INFO | 
+2024-05-30 15:39:14,078| Thread-036 | INFO | Epoch 344/1999	 learning rate: 0.0001
+2024-05-30 15:39:14,078| Thread-036 | INFO | ----------
+2024-05-30 15:39:17,857| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:18,614| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:39:18,624| Thread-036 | INFO | epoch time taken: 4.546091250143945
+2024-05-30 15:39:18,624| Thread-036 | INFO | 
+2024-05-30 15:39:18,624| Thread-036 | INFO | Epoch 345/1999	 learning rate: 0.0001
+2024-05-30 15:39:18,624| Thread-036 | INFO | ----------
+2024-05-30 15:39:22,401| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:23,137| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:39:23,139| Thread-036 | INFO | epoch time taken: 4.514551050029695
+2024-05-30 15:39:23,139| Thread-036 | INFO | 
+2024-05-30 15:39:23,139| Thread-036 | INFO | Epoch 346/1999	 learning rate: 0.0001
+2024-05-30 15:39:23,139| Thread-036 | INFO | ----------
+2024-05-30 15:39:26,843| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:27,524| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:39:27,527| Thread-036 | INFO | epoch time taken: 4.387739423895255
+2024-05-30 15:39:27,527| Thread-036 | INFO | 
+2024-05-30 15:39:27,527| Thread-036 | INFO | Epoch 347/1999	 learning rate: 0.0001
+2024-05-30 15:39:27,527| Thread-036 | INFO | ----------
+2024-05-30 15:39:31,309| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:39:31,939| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:39:31,947| Thread-036 | INFO | epoch time taken: 4.420657312031835
+2024-05-30 15:39:31,948| Thread-036 | INFO | 
+2024-05-30 15:39:31,948| Thread-036 | INFO | Epoch 348/1999	 learning rate: 0.0001
+2024-05-30 15:39:31,948| Thread-036 | INFO | ----------
+2024-05-30 15:39:35,828| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:39:36,478| Thread-036 | INFO | valid Loss: 0.0091
+2024-05-30 15:39:36,545| Thread-036 | INFO | epoch time taken: 4.597185838967562
+2024-05-30 15:39:36,545| Thread-036 | INFO | 
+2024-05-30 15:39:36,545| Thread-036 | INFO | Epoch 349/1999	 learning rate: 0.0001
+2024-05-30 15:39:36,545| Thread-036 | INFO | ----------
+2024-05-30 15:39:40,338| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:39:41,092| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:39:41,095| Thread-036 | INFO | epoch time taken: 4.54925706400536
+2024-05-30 15:39:41,095| Thread-036 | INFO | 
+2024-05-30 15:39:41,095| Thread-036 | INFO | Epoch 350/1999	 learning rate: 0.0001
+2024-05-30 15:39:41,095| Thread-036 | INFO | ----------
+2024-05-30 15:39:44,901| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:39:45,516| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:39:45,518| Thread-036 | INFO | epoch time taken: 4.4234633799642324
+2024-05-30 15:39:45,518| Thread-036 | INFO | 
+2024-05-30 15:39:45,519| Thread-036 | INFO | Epoch 351/1999	 learning rate: 0.0001
+2024-05-30 15:39:45,519| Thread-036 | INFO | ----------
+2024-05-30 15:39:49,365| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:39:50,102| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:39:50,104| Thread-036 | INFO | epoch time taken: 4.5854052640497684
+2024-05-30 15:39:50,104| Thread-036 | INFO | 
+2024-05-30 15:39:50,104| Thread-036 | INFO | Epoch 352/1999	 learning rate: 0.0001
+2024-05-30 15:39:50,104| Thread-036 | INFO | ----------
+2024-05-30 15:39:53,846| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:39:54,558| Thread-036 | INFO | valid Loss: 0.0069
+2024-05-30 15:39:54,560| Thread-036 | INFO | epoch time taken: 4.456166785908863
+2024-05-30 15:39:54,560| Thread-036 | INFO | 
+2024-05-30 15:39:54,560| Thread-036 | INFO | Epoch 353/1999	 learning rate: 0.0001
+2024-05-30 15:39:54,560| Thread-036 | INFO | ----------
+2024-05-30 15:39:58,424| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:39:59,092| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:39:59,097| Thread-036 | INFO | epoch time taken: 4.536684547085315
+2024-05-30 15:39:59,097| Thread-036 | INFO | 
+2024-05-30 15:39:59,097| Thread-036 | INFO | Epoch 354/1999	 learning rate: 0.0001
+2024-05-30 15:39:59,097| Thread-036 | INFO | ----------
+2024-05-30 15:40:03,028| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:40:03,990| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:40:03,992| Thread-036 | INFO | epoch time taken: 4.895251567941159
+2024-05-30 15:40:03,993| Thread-036 | INFO | 
+2024-05-30 15:40:03,993| Thread-036 | INFO | Epoch 355/1999	 learning rate: 0.0001
+2024-05-30 15:40:03,993| Thread-036 | INFO | ----------
+2024-05-30 15:40:07,988| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:40:08,757| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:40:08,759| Thread-036 | INFO | epoch time taken: 4.766758080106229
+2024-05-30 15:40:08,759| Thread-036 | INFO | 
+2024-05-30 15:40:08,760| Thread-036 | INFO | Epoch 356/1999	 learning rate: 0.0001
+2024-05-30 15:40:08,760| Thread-036 | INFO | ----------
+2024-05-30 15:40:12,596| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:40:13,278| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:40:13,280| Thread-036 | INFO | epoch time taken: 4.5202886869665235
+2024-05-30 15:40:13,280| Thread-036 | INFO | 
+2024-05-30 15:40:13,280| Thread-036 | INFO | Epoch 357/1999	 learning rate: 0.0001
+2024-05-30 15:40:13,280| Thread-036 | INFO | ----------
+2024-05-30 15:40:17,102| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:40:17,770| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:40:17,773| Thread-036 | INFO | epoch time taken: 4.492765731178224
+2024-05-30 15:40:17,773| Thread-036 | INFO | 
+2024-05-30 15:40:17,773| Thread-036 | INFO | Epoch 358/1999	 learning rate: 0.0001
+2024-05-30 15:40:17,773| Thread-036 | INFO | ----------
+2024-05-30 15:40:21,640| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:40:22,305| Thread-036 | INFO | valid Loss: 0.0083
+2024-05-30 15:40:22,308| Thread-036 | INFO | epoch time taken: 4.534784216899425
+2024-05-30 15:40:22,308| Thread-036 | INFO | 
+2024-05-30 15:40:22,308| Thread-036 | INFO | Epoch 359/1999	 learning rate: 0.0001
+2024-05-30 15:40:22,308| Thread-036 | INFO | ----------
+2024-05-30 15:40:26,184| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:40:26,995| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:40:26,997| Thread-036 | INFO | epoch time taken: 4.689219834050164
+2024-05-30 15:40:26,997| Thread-036 | INFO | 
+2024-05-30 15:40:26,997| Thread-036 | INFO | Epoch 360/1999	 learning rate: 0.0001
+2024-05-30 15:40:26,997| Thread-036 | INFO | ----------
+2024-05-30 15:40:30,956| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:40:31,701| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:40:31,705| Thread-036 | INFO | epoch time taken: 4.707846099045128
+2024-05-30 15:40:31,705| Thread-036 | INFO | 
+2024-05-30 15:40:31,705| Thread-036 | INFO | Epoch 361/1999	 learning rate: 0.0001
+2024-05-30 15:40:31,705| Thread-036 | INFO | ----------
+2024-05-30 15:40:35,453| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:40:36,182| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:40:36,184| Thread-036 | INFO | epoch time taken: 4.478685742011294
+2024-05-30 15:40:36,184| Thread-036 | INFO | 
+2024-05-30 15:40:36,184| Thread-036 | INFO | Epoch 362/1999	 learning rate: 0.0001
+2024-05-30 15:40:36,184| Thread-036 | INFO | ----------
+2024-05-30 15:40:39,922| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:40:40,619| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:40:40,621| Thread-036 | INFO | epoch time taken: 4.436985532986
+2024-05-30 15:40:40,621| Thread-036 | INFO | 
+2024-05-30 15:40:40,621| Thread-036 | INFO | Epoch 363/1999	 learning rate: 0.0001
+2024-05-30 15:40:40,621| Thread-036 | INFO | ----------
+2024-05-30 15:40:44,480| Thread-036 | INFO | train Loss: 0.0043
+2024-05-30 15:40:45,127| Thread-036 | INFO | valid Loss: 0.0073
+2024-05-30 15:40:45,148| Thread-036 | INFO | epoch time taken: 4.526558762183413
+2024-05-30 15:40:45,148| Thread-036 | INFO | 
+2024-05-30 15:40:45,148| Thread-036 | INFO | Epoch 364/1999	 learning rate: 0.0001
+2024-05-30 15:40:45,148| Thread-036 | INFO | ----------
+2024-05-30 15:40:48,915| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:40:49,561| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:40:49,565| Thread-036 | INFO | epoch time taken: 4.41616771183908
+2024-05-30 15:40:49,565| Thread-036 | INFO | 
+2024-05-30 15:40:49,565| Thread-036 | INFO | Epoch 365/1999	 learning rate: 0.0001
+2024-05-30 15:40:49,565| Thread-036 | INFO | ----------
+2024-05-30 15:40:53,413| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:40:54,059| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:40:54,183| Thread-036 | INFO | epoch time taken: 4.618245501071215
+2024-05-30 15:40:54,183| Thread-036 | INFO | 
+2024-05-30 15:40:54,184| Thread-036 | INFO | Epoch 366/1999	 learning rate: 0.0001
+2024-05-30 15:40:54,184| Thread-036 | INFO | ----------
+2024-05-30 15:40:57,942| Thread-036 | INFO | train Loss: 0.0048
+2024-05-30 15:40:58,632| Thread-036 | INFO | valid Loss: 0.0076
+2024-05-30 15:40:58,640| Thread-036 | INFO | epoch time taken: 4.456418624147773
+2024-05-30 15:40:58,640| Thread-036 | INFO | 
+2024-05-30 15:40:58,640| Thread-036 | INFO | Epoch 367/1999	 learning rate: 0.0001
+2024-05-30 15:40:58,640| Thread-036 | INFO | ----------
+2024-05-30 15:41:02,439| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:41:03,336| Thread-036 | INFO | valid Loss: 0.0078
+2024-05-30 15:41:03,338| Thread-036 | INFO | epoch time taken: 4.698239661054686
+2024-05-30 15:41:03,338| Thread-036 | INFO | 
+2024-05-30 15:41:03,339| Thread-036 | INFO | Epoch 368/1999	 learning rate: 0.0001
+2024-05-30 15:41:03,339| Thread-036 | INFO | ----------
+2024-05-30 15:41:07,382| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:08,166| Thread-036 | INFO | valid Loss: 0.0071
+2024-05-30 15:41:08,169| Thread-036 | INFO | epoch time taken: 4.830812317086384
+2024-05-30 15:41:08,169| Thread-036 | INFO | 
+2024-05-30 15:41:08,170| Thread-036 | INFO | Epoch 369/1999	 learning rate: 0.0001
+2024-05-30 15:41:08,170| Thread-036 | INFO | ----------
+2024-05-30 15:41:11,980| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:41:12,669| Thread-036 | INFO | valid Loss: 0.0067
+2024-05-30 15:41:12,672| Thread-036 | INFO | epoch time taken: 4.502310671145096
+2024-05-30 15:41:12,672| Thread-036 | INFO | 
+2024-05-30 15:41:12,672| Thread-036 | INFO | Epoch 370/1999	 learning rate: 0.0001
+2024-05-30 15:41:12,672| Thread-036 | INFO | ----------
+2024-05-30 15:41:16,521| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:17,286| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:41:17,297| Thread-036 | INFO | epoch time taken: 4.62507255980745
+2024-05-30 15:41:17,297| Thread-036 | INFO | 
+2024-05-30 15:41:17,297| Thread-036 | INFO | Epoch 371/1999	 learning rate: 0.0001
+2024-05-30 15:41:17,297| Thread-036 | INFO | ----------
+2024-05-30 15:41:21,069| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:21,744| Thread-036 | INFO | valid Loss: 0.0072
+2024-05-30 15:41:21,747| Thread-036 | INFO | epoch time taken: 4.449343711137772
+2024-05-30 15:41:21,747| Thread-036 | INFO | 
+2024-05-30 15:41:21,747| Thread-036 | INFO | Epoch 372/1999	 learning rate: 0.0001
+2024-05-30 15:41:21,747| Thread-036 | INFO | ----------
+2024-05-30 15:41:25,554| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:41:26,262| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:41:26,265| Thread-036 | INFO | epoch time taken: 4.517736501060426
+2024-05-30 15:41:26,265| Thread-036 | INFO | 
+2024-05-30 15:41:26,265| Thread-036 | INFO | Epoch 373/1999	 learning rate: 0.0001
+2024-05-30 15:41:26,265| Thread-036 | INFO | ----------
+2024-05-30 15:41:29,885| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:41:30,542| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:41:30,545| Thread-036 | INFO | epoch time taken: 4.279917297884822
+2024-05-30 15:41:30,545| Thread-036 | INFO | 
+2024-05-30 15:41:30,545| Thread-036 | INFO | Epoch 374/1999	 learning rate: 0.0001
+2024-05-30 15:41:30,545| Thread-036 | INFO | ----------
+2024-05-30 15:41:34,244| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:34,869| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:41:34,875| Thread-036 | INFO | epoch time taken: 4.330674570985138
+2024-05-30 15:41:34,876| Thread-036 | INFO | 
+2024-05-30 15:41:34,876| Thread-036 | INFO | Epoch 375/1999	 learning rate: 0.0001
+2024-05-30 15:41:34,876| Thread-036 | INFO | ----------
+2024-05-30 15:41:38,513| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:39,171| Thread-036 | INFO | valid Loss: 0.0088
+2024-05-30 15:41:39,173| Thread-036 | INFO | epoch time taken: 4.297667509876192
+2024-05-30 15:41:39,174| Thread-036 | INFO | 
+2024-05-30 15:41:39,174| Thread-036 | INFO | Epoch 376/1999	 learning rate: 0.0001
+2024-05-30 15:41:39,174| Thread-036 | INFO | ----------
+2024-05-30 15:41:42,933| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:41:43,612| Thread-036 | INFO | valid Loss: 0.0084
+2024-05-30 15:41:43,615| Thread-036 | INFO | epoch time taken: 4.440903516951948
+2024-05-30 15:41:43,615| Thread-036 | INFO | 
+2024-05-30 15:41:43,615| Thread-036 | INFO | Epoch 377/1999	 learning rate: 0.0001
+2024-05-30 15:41:43,615| Thread-036 | INFO | ----------
+2024-05-30 15:41:47,328| Thread-036 | INFO | train Loss: 0.0046
+2024-05-30 15:41:47,951| Thread-036 | INFO | valid Loss: 0.0080
+2024-05-30 15:41:47,953| Thread-036 | INFO | epoch time taken: 4.338168644113466
+2024-05-30 15:41:47,953| Thread-036 | INFO | 
+2024-05-30 15:41:47,953| Thread-036 | INFO | Epoch 378/1999	 learning rate: 0.0001
+2024-05-30 15:41:47,953| Thread-036 | INFO | ----------
+2024-05-30 15:41:51,795| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:52,766| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:41:52,769| Thread-036 | INFO | epoch time taken: 4.816195060033351
+2024-05-30 15:41:52,770| Thread-036 | INFO | 
+2024-05-30 15:41:52,770| Thread-036 | INFO | Epoch 379/1999	 learning rate: 0.0001
+2024-05-30 15:41:52,770| Thread-036 | INFO | ----------
+2024-05-30 15:41:56,779| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:41:57,683| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:41:57,686| Thread-036 | INFO | epoch time taken: 4.915951567003503
+2024-05-30 15:41:57,686| Thread-036 | INFO | 
+2024-05-30 15:41:57,686| Thread-036 | INFO | Epoch 380/1999	 learning rate: 0.0001
+2024-05-30 15:41:57,686| Thread-036 | INFO | ----------
+2024-05-30 15:42:01,729| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:42:02,498| Thread-036 | INFO | valid Loss: 0.0082
+2024-05-30 15:42:02,500| Thread-036 | INFO | epoch time taken: 4.814352535177022
+2024-05-30 15:42:02,500| Thread-036 | INFO | 
+2024-05-30 15:42:02,500| Thread-036 | INFO | Epoch 381/1999	 learning rate: 0.0001
+2024-05-30 15:42:02,501| Thread-036 | INFO | ----------
+2024-05-30 15:42:06,494| Thread-036 | INFO | train Loss: 0.0047
+2024-05-30 15:42:07,236| Thread-036 | INFO | valid Loss: 0.0070
+2024-05-30 15:42:07,238| Thread-036 | INFO | epoch time taken: 4.737633596174419
+2024-05-30 15:42:07,238| Thread-036 | INFO | 
+2024-05-30 15:42:07,238| Thread-036 | INFO | Epoch 382/1999	 learning rate: 0.0001
+2024-05-30 15:42:07,238| Thread-036 | INFO | ----------
+2024-05-30 15:42:11,048| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:42:11,732| Thread-036 | INFO | valid Loss: 0.0079
+2024-05-30 15:42:11,734| Thread-036 | INFO | epoch time taken: 4.4962881789542735
+2024-05-30 15:42:11,735| Thread-036 | INFO | 
+2024-05-30 15:42:11,735| Thread-036 | INFO | Epoch 383/1999	 learning rate: 0.0001
+2024-05-30 15:42:11,735| Thread-036 | INFO | ----------
+2024-05-30 15:42:15,381| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:42:16,033| Thread-036 | INFO | valid Loss: 0.0074
+2024-05-30 15:42:16,036| Thread-036 | INFO | epoch time taken: 4.301236663945019
+2024-05-30 15:42:16,036| Thread-036 | INFO | 
+2024-05-30 15:42:16,036| Thread-036 | INFO | Epoch 384/1999	 learning rate: 0.0001
+2024-05-30 15:42:16,036| Thread-036 | INFO | ----------
+2024-05-30 15:42:19,849| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:42:20,536| Thread-036 | INFO | valid Loss: 0.0081
+2024-05-30 15:42:20,538| Thread-036 | INFO | epoch time taken: 4.502396862022579
+2024-05-30 15:42:20,538| Thread-036 | INFO | 
+2024-05-30 15:42:20,539| Thread-036 | INFO | Epoch 385/1999	 learning rate: 0.0001
+2024-05-30 15:42:20,539| Thread-036 | INFO | ----------
+2024-05-30 15:42:24,360| Thread-036 | INFO | train Loss: 0.0045
+2024-05-30 15:42:25,252| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:42:25,255| Thread-036 | INFO | epoch time taken: 4.716006021015346
+2024-05-30 15:42:25,255| Thread-036 | INFO | 
+2024-05-30 15:42:25,255| Thread-036 | INFO | Epoch 386/1999	 learning rate: 0.0001
+2024-05-30 15:42:25,255| Thread-036 | INFO | ----------
+2024-05-30 15:42:29,294| Thread-036 | INFO | train Loss: 0.0044
+2024-05-30 15:42:30,107| Thread-036 | INFO | valid Loss: 0.0075
+2024-05-30 15:42:30,110| Thread-036 | INFO | epoch time taken: 4.85527523397468
+2024-05-30 15:42:30,110| Thread-036 | INFO | 
+2024-05-30 15:42:30,110| Thread-036 | INFO | Epoch 387/1999	 learning rate: 0.0001
+2024-05-30 15:42:30,110| Thread-036 | INFO | ----------
+2024-05-30 15:42:34,066| Thread-036 | INFO | train Loss: 0.0042
+2024-05-30 15:42:34,753| Thread-036 | INFO | valid Loss: 0.0077
+2024-05-30 15:42:34,755| Thread-036 | INFO | epoch time taken: 4.644916175166145
+2024-05-30 15:42:34,755| Thread-036 | INFO | 
+2024-05-30 15:42:34,755| Thread-036 | INFO | EPOCH_STARTED_STEP_LR: 388
+2024-05-30 15:42:34,756| Thread-036 | INFO | Epoch 388/1999	 learning rate: 0.0001
+2024-05-30 15:42:34,756| Thread-036 | INFO | ----------
+2024-05-30 15:42:38,581| Thread-036 | INFO | train Loss: 0.0042
+2024-05-30 15:42:38,583| Thread-036 | INFO | epoch time taken: 3.827785716857761
+2024-05-30 15:42:38,583| Thread-036 | INFO | 
+2024-05-30 15:42:38,584| Thread-036 | INFO | Training complete in 29m 57s
+2024-05-30 15:42:38,584| Thread-036 | INFO | Best val Loss: 0.006440
+2024-05-30 15:42:38,589| Thread-036 | INFO | MSE LOSS evalontest TRAIN:
+2024-05-30 15:42:42,261| Thread-036 | INFO | evalontest Loss: 0.0001
+2024-05-30 15:42:42,262| Thread-036 | INFO | L1 LOSS evalontest TRAIN:
+2024-05-30 15:42:45,971| Thread-036 | INFO | evalontest Loss: 0.0072
+2024-05-30 15:42:46,021| Thread-036 | DEBUG| THREAD ENDING.

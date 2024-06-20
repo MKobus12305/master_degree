@@ -1,0 +1,18 @@
+{
+    "set_valid_to_train": false,
+    "valid_patient_id": 36,
+    "learning_rate": 0.0001,
+    "num_points": 6,
+    "architecture": "Resi2",
+    "epochs": 2000,
+    "loss": "L1",
+    "step_lr_size": 100,
+    "step_lr_gamma": 0.8,
+    "best_model_update_in": "valid",
+    "optimizer_type": "AdamW",
+    "weights_load_path": null,
+    "early_stopping_epochs": 330,
+    "gpu_id": 1,
+    "replace_linear_head": false,
+    "num_epochs_no_stepLR": 1000
+}

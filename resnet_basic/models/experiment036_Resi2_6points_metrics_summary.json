@@ -1,0 +1,5 @@
+{
+    "train_loss_at_min_valid": 0.007284696797944994,
+    "epoch_started_step_lr": 388,
+    "valid_loss_min": 0.006439525634050369
+}
