@@ -1,0 +1,24 @@
+***********************day2024_06_19************************
+Initialize with pre-trained ResNet
+***********************day2024_06_19************************
+Initialize with pre-trained ResNet
+successfully load 318 keys
+Total params: 25.5050MB
+train dataset size: 1335
+validation dataset size: 85
+proportion of datasets: 0.94 : 0.06
+---------------------
+Train begins...
+
+Epoch: 1 | LR: 0.00050000
+***********************day2024_06_19************************
+Initialize with pre-trained ResNet
+successfully load 318 keys
+Total params: 25.5050MB
+train dataset size: 1335
+validation dataset size: 85
+proportion of datasets: 0.94 : 0.06
+---------------------
+Train begins...
+
+Epoch: 1 | LR: 0.00050000
